@@ -14,3 +14,6 @@
 [submodule "02_randomizer/8/Dyrland-WeaverJ"]
 	path = 02_randomizer/8/Dyrland-WeaverJ
 	url = https://github.com/jonalf/pd8-demo.git
+[submodule "02_randomizer/8/WooJ-ZhengH"]
+	path = 02_randomizer/8/WooJ-ZhengH
+	url = https://github.com/JackieW001/MochiIceCream.git
