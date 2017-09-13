@@ -40,7 +40,7 @@
 	url = https://github.com/JamesSmith1202/Assignment1.git
 [submodule "02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K"]
 	path = 02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K
-	url = https://github.com/stuy-softdev/workshop.git
+	url = https://github.com/kionkina/potassium_hydride.git
 [submodule "02_randomizer/7/NgoS-PanC"]
 	path = 02_randomizer/7/NgoS-PanC
 	url = https://github.com/sngo1/Secret-Police.git
