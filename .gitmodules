@@ -20,3 +20,6 @@
 [submodule "02_randomizer/7/LCSoft_Liu-Y_Smith-Salzberg-C"]
 	path = 02_randomizer/7/LCSoft_Liu-Y_Smith-Salzberg-C
 	url = https://github.com/csmithsalzberg/LCSoft.git
+[submodule "02_randomizer/9/Dyrland-WeaverJ"]
+	path = 02_randomizer/9/Dyrland-WeaverJ
+	url = https://github.com/jonalf/pd9-demo.git
