@@ -32,3 +32,6 @@
 [submodule "02_randomizer/9/ElsharawyM-JonesR"]
 	path = 02_randomizer/9/ElsharawyM-JonesR
 	url = https://github.com/Razorflame3912/Classes.git
+[submodule "02_randomizer/9/KorsunM-NgM"]
+	path = 02_randomizer/9/KorsunM-NgM
+	url = https://github.com/MarcusNg/softdev_HW2.git
