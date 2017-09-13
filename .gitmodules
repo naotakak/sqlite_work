@@ -5,3 +5,6 @@
 	path = 02_randomizer/7/KadirJ-ShifrinaD
 	url = https://github.com/dariashifrina/pet.git
 
+[submodule "02_randomizer/7/RoktimA-RuvinshteynM"]
+	path = 02_randomizer/7/RoktimA-RuvinshteynM
+	url = https://github.com/ArifRoktim/turbo-octo-lamp.git
