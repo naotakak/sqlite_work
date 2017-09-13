@@ -23,3 +23,6 @@
 [submodule "02_randomizer/9/Dyrland-WeaverJ"]
 	path = 02_randomizer/9/Dyrland-WeaverJ
 	url = https://github.com/jonalf/pd9-demo.git
+[submodule "02_randomizer/9/LinS-ChenK"]
+	path = 02_randomizer/9/LinS-ChenK
+	url = https://github.com/wertylop5/MKS21Q.git
