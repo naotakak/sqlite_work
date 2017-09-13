@@ -41,3 +41,6 @@
 [submodule "02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K"]
 	path = 02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K
 	url = https://github.com/stuy-softdev/workshop.git
+[submodule "02_randomizer/7/NgoS-PanC"]
+	path = 02_randomizer/7/NgoS-PanC
+	url = https://github.com/sngo1/Secret-Police.git
