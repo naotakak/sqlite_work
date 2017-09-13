@@ -17,3 +17,6 @@
 [submodule "02_randomizer/8/WooJ-ZhengH"]
 	path = 02_randomizer/8/WooJ-ZhengH
 	url = https://github.com/JackieW001/MochiIceCream.git
+[submodule "02_randomizer/7/LCSoft_Liu-Y_Smith-Salzberg-C"]
+	path = 02_randomizer/7/LCSoft_Liu-Y_Smith-Salzberg-C
+	url = https://github.com/csmithsalzberg/LCSoft.git
