@@ -35,3 +35,6 @@
 [submodule "02_randomizer/9/KorsunM-NgM"]
 	path = 02_randomizer/9/KorsunM-NgM
 	url = https://github.com/MarcusNg/softdev_HW2.git
+[submodule "02_randomizer/9/SmithJ-MahdiI"]
+	path = 02_randomizer/9/SmithJ-MahdiI
+	url = https://github.com/JamesSmith1202/Assignment1.git
