@@ -26,3 +26,6 @@
 [submodule "02_randomizer/9/LinS-ChenK"]
 	path = 02_randomizer/9/LinS-ChenK
 	url = https://github.com/wertylop5/MKS21Q.git
+[submodule "02_randomizer/9/LiK-ZaiaJ"]
+	path = 02_randomizer/9/LiK-ZaiaJ
+	url = https://github.com/Kli16/turbo-goggles.git
