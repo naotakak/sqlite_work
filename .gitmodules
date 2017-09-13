@@ -1,16 +1,13 @@
-<<<<<<< HEAD
 [submodule "02_randomizer/7/Voldemort_Cartegni-A_Guan-T"]
 	path = 02_randomizer/7/Voldemort_Cartegni-A_Guan-T
 	url = https://github.com/TerryMinal/Voldemort.git
-=======
 [submodule "AABB-CCDD_Abbas-A_Berri-B"]
 	path = 02_randomizer/7/AABB-CCDD_Abbas-A_Berri-B
 	url = https://github.com/Watabaws/AABB-CCDD-.git
 [submodule "02_randomizer/7/KadirJ-ShifrinaD"]
 	path = 02_randomizer/7/KadirJ-ShifrinaD
 	url = https://github.com/dariashifrina/pet.git
-
 [submodule "02_randomizer/7/RoktimA-RuvinshteynM"]
 	path = 02_randomizer/7/RoktimA-RuvinshteynM
 	url = https://github.com/ArifRoktim/turbo-octo-lamp.git
->>>>>>> b09f7aa23df41d1719f3ea8b1d4758e6d58b68d9
+
