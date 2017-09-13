@@ -47,3 +47,6 @@
 [submodule "02_randomizer/7/ZhangJ-ZhangY"]
 	path = 02_randomizer/7/ZhangJ-ZhangY
 	url = https://github.com/yuyangz/ZhangJ-ZhangY.git
+[submodule "02_randomizer/7/Javacuation_Rafi-S_Peters-S"]
+	path = 02_randomizer/7/Javacuation_Rafi-S_Peters-S
+	url = https://github.com/srafi1/randomizer.git
