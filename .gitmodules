@@ -10,7 +10,6 @@
 [submodule "02_randomizer/7/RoktimA-RuvinshteynM"]
 	path = 02_randomizer/7/RoktimA-RuvinshteynM
 	url = https://github.com/ArifRoktim/turbo-octo-lamp.git
-
 [submodule "02_randomizer/8/Dyrland-WeaverJ"]
 	path = 02_randomizer/8/Dyrland-WeaverJ
 	url = https://github.com/jonalf/pd8-demo.git
@@ -47,15 +46,9 @@
 [submodule "02_randomizer/7/ZhangJ-ZhangY"]
 	path = 02_randomizer/7/ZhangJ-ZhangY
 	url = https://github.com/yuyangz/ZhangJ-ZhangY.git
-<<<<<<< HEAD
-[submodule "02_randomizer/9/GaoJ-"]
-	path = 02_randomizer/9/GaoJ-
-	url = git@github.com:gaoj123/randomName.git
 [submodule "02_randomizer/9/GaoJ-ZlotskiyM"]
 	path = 02_randomizer/9/GaoJ-ZlotskiyM
 	url = git@github.com:gaoj123/randomName.git
-=======
 [submodule "02_randomizer/7/Javacuation_Rafi-S_Peters-S"]
 	path = 02_randomizer/7/Javacuation_Rafi-S_Peters-S
 	url = https://github.com/srafi1/randomizer.git
->>>>>>> c1c2d6ae89e6599f533c2efcc6c5f33c46fabf89
