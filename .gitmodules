@@ -47,3 +47,9 @@
 [submodule "02_randomizer/7/ZhangJ-ZhangY"]
 	path = 02_randomizer/7/ZhangJ-ZhangY
 	url = https://github.com/yuyangz/ZhangJ-ZhangY.git
+[submodule "02_randomizer/9/GaoJ-"]
+	path = 02_randomizer/9/GaoJ-
+	url = git@github.com:gaoj123/randomName.git
+[submodule "02_randomizer/9/GaoJ-ZlotskiyM"]
+	path = 02_randomizer/9/GaoJ-ZlotskiyM
+	url = git@github.com:gaoj123/randomName.git
