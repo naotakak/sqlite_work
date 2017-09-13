@@ -38,3 +38,6 @@
 [submodule "02_randomizer/9/SmithJ-MahdiI"]
 	path = 02_randomizer/9/SmithJ-MahdiI
 	url = https://github.com/JamesSmith1202/Assignment1.git
+[submodule "02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K"]
+	path = 02_randomizer/7/potassium_hydride_Higgins-H_Ionkina-K
+	url = https://github.com/stuy-softdev/workshop.git
