@@ -44,3 +44,6 @@
 [submodule "02_randomizer/7/NgoS-PanC"]
 	path = 02_randomizer/7/NgoS-PanC
 	url = https://github.com/sngo1/Secret-Police.git
+[submodule "02_randomizer/7/ZhangJ-ZhangY"]
+	path = 02_randomizer/7/ZhangJ-ZhangY
+	url = https://github.com/yuyangz/ZhangJ-ZhangY.git
