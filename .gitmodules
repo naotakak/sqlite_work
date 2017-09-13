@@ -55,3 +55,6 @@
 [submodule "ChenK-VidaliG"]
 	path = ChenK-VidaliG
 	url = https://github.com/kchen6600/softdev.git
+[submodule "02_randomizer/9/WuY-MarchiniM"]
+	path = 02_randomizer/9/WuY-MarchiniM
+	url = https://github.com/Yuqiwu/work02.git
