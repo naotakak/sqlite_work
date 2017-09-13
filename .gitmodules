@@ -11,3 +11,6 @@
 	path = 02_randomizer/7/RoktimA-RuvinshteynM
 	url = https://github.com/ArifRoktim/turbo-octo-lamp.git
 
+[submodule "02_randomizer/8/Dyrland-WeaverJ"]
+	path = 02_randomizer/8/Dyrland-WeaverJ
+	url = https://github.com/jonalf/pd8-demo.git
