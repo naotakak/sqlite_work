@@ -52,3 +52,6 @@
 [submodule "02_randomizer/7/Javacuation_Rafi-S_Peters-S"]
 	path = 02_randomizer/7/Javacuation_Rafi-S_Peters-S
 	url = https://github.com/srafi1/randomizer.git
+[submodule "ChenK-VidaliG"]
+	path = ChenK-VidaliG
+	url = https://github.com/kchen6600/softdev.git
