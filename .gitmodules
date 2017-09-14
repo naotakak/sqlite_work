@@ -145,3 +145,6 @@
 [submodule "02_randomizer/7/PetersS_RafiS"]
 	path = 02_randomizer/7/PetersS_RafiS
 	url = https://github.com/srafi1/randomizer
+[submodule "03_occupation/7/Leung-B_Liu-Y"]
+	path = 03_occupation/7/Leung-B_Liu-Y
+	url = https://github.com/TakingTheL/Triple-L.git
