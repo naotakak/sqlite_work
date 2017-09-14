@@ -64,3 +64,9 @@
 [submodule "02_randomizer/7/KinoshitaN-LeeV"]
 	path = 02_randomizer/7/KinoshitaN-LeeV
 	url = git@github.com:vivienlee00/Clout.git
+[submodule "02_randomizer/8/02Work"]
+	path = 02_randomizer/8/02Work
+	url = git@github.com:tiffanychenn/02Work.git
+[submodule "02_randomizer/8/ChenT-LeiG"]
+	path = 02_randomizer/8/ChenT-LeiG
+	url = git@github.com:tiffanychenn/02Work.git
