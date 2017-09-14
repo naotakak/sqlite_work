@@ -79,3 +79,6 @@
 [submodule "02_randomizer/9/KhanK-ParkP"]
 	path = 02_randomizer/9/KhanK-ParkP
 	url = https://github.com/kkhan01/MKS21QJI-RandomChooser.git
+[submodule "02_randomizer/8/ChenX-ParabS"]
+	path = 02_randomizer/8/ChenX-ParabS
+	url = https://github.com/xchen5/generateName.git
