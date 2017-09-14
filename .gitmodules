@@ -61,3 +61,6 @@
 [submodule "02_randomizer/9/ChenT-ChengM"]
 	path = 02_randomizer/9/ChenT-ChengM
 	url = https://github.com/tchen9/SoftwareDev.git
+[submodule "02_randomizer/7/KinoshitaN-LeeV"]
+	path = 02_randomizer/7/KinoshitaN-LeeV
+	url = git@github.com:vivienlee00/Clout.git
