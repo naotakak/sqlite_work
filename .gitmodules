@@ -61,3 +61,6 @@
 [submodule "02_randomizer/9/ChenT-ChengM"]
 	path = 02_randomizer/9/ChenT-ChengM
 	url = https://github.com/tchen9/SoftwareDev.git
+[submodule "02_randomizer/7/13-32-WangK-WengC"]
+	path = 02_randomizer/7/13-32-WangK-WengC
+	url = git@github.com:Char-Les/GRASS-tastes-BAD.git
