@@ -124,3 +124,6 @@
 [submodule "02_randomizer/8/TaradachukA-KalmakovaB"]
 	path = 02_randomizer/8/TaradachukA-KalmakovaB
 	url = https://github.com/taradactyl27/PythOn.git
+[submodule "02_randomizer/9/GoldmanJ-RahmanA"]
+	path = 02_randomizer/9/GoldmanJ-RahmanA
+	url = https://github.com/jakegoldman/SoftDev-02.git
