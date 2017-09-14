@@ -133,3 +133,6 @@
 [submodule "02_randomizer/7/Team-JE_Thomas-E_Wu-J"]
 	path = 02_randomizer/7/Team-JE_Thomas-E_Wu-J
 	url = https://github.com/joyce-wu/Team-JE.git
+[submodule "02_randomizer/9/XuJ-SoeW"]
+	path = 02_randomizer/9/XuJ-SoeW
+	url = https://github.com/jacqxu00/SoftDevRandomizer.git
