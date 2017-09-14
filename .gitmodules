@@ -157,3 +157,6 @@
 [submodule "02_randomizer/9/WongE-OlevskyL"]
 	path = 02_randomizer/9/WongE-OlevskyL
 	url = https://github.com/Edmond120/softdev1.git
+[submodule "02_randomizer/9/LinK-WongA"]
+	path = 02_randomizer/9/LinK-WongA
+	url = https://github.com/kylelin12/Slither-Back-into-Python.git
