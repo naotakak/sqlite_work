@@ -109,3 +109,6 @@
 [submodule "02_randomizer/8/ChenK-VidaliG"]
 	path = 02_randomizer/8/ChenK-VidaliG
 	url = https://github.com/kchen6600/softdev.git
+[submodule "02_randomizer/7/blij_JahanI-LeungB"]
+	path = 02_randomizer/7/blij_JahanI-LeungB
+	url = https://github.com/bleung329/blij_JahanI-LeungB.git
