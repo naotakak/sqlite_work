@@ -160,3 +160,6 @@
 [submodule "02_randomizer/9/LinK-WongA"]
 	path = 02_randomizer/9/LinK-WongA
 	url = https://github.com/kylelin12/Slither-Back-into-Python.git
+[submodule "03_occupation/7/Ionkina-Karina_Jahan-Ibnul"]
+	path = 03_occupation/7/Ionkina-Karina_Jahan-Ibnul
+	url = https://github.com/ibnullify/ibkewl.git
