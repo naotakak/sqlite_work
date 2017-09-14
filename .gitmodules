@@ -136,3 +136,6 @@
 [submodule "02_randomizer/9/XuJ-SoeW"]
 	path = 02_randomizer/9/XuJ-SoeW
 	url = https://github.com/jacqxu00/SoftDevRandomizer.git
+[submodule "02_randomizer/8/BoylanA-ZorinM"]
+	path = 02_randomizer/8/BoylanA-ZorinM
+	url = https://github.com/aboblin/getRandomStudent.git
