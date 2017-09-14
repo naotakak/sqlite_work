@@ -148,3 +148,6 @@
 [submodule "03_occupation/7/Leung-B_Liu-Y"]
 	path = 03_occupation/7/Leung-B_Liu-Y
 	url = https://github.com/TakingTheL/Triple-L.git
+[submodule "03_occupation/7/Guan-Terry_Kinoshita-Naotaka"]
+	path = 03_occupation/7/Guan-Terry_Kinoshita-Naotaka
+	url = https://github.com/naotakak/Dumbledore.git
