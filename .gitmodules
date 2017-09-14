@@ -103,3 +103,6 @@
 [submodule "02_randomizer/7/sup_LauS-YuJ"]
 	path = 02_randomizer/7/sup_LauS-YuJ
 	url = git@github.com:jenyu7/sup.git
+[submodule "02_randomizer/8/MurphyA-NgA"]
+	path = 02_randomizer/8/MurphyA-NgA
+	url = https://github.com/angelng1412/refactored-parakeet.git
