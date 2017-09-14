@@ -130,3 +130,6 @@
 [submodule "02_randomizer/8/TabassumM_TaoI"]
 	path = 02_randomizer/8/TabassumM_TaoI
 	url = https://github.com/iristao/TabassumM_TaoI.git
+[submodule "02_randomizer/7/Team-JE_Thomas-E_Wu-J"]
+	path = 02_randomizer/7/Team-JE_Thomas-E_Wu-J
+	url = https://github.com/joyce-wu/Team-JE.git
