@@ -97,3 +97,6 @@
 [submodule "02_randomizer/8/QuangJ-JohnstonC"]
 	path = 02_randomizer/8/QuangJ-JohnstonC
 	url = https://github.com/JonathanQuang/Random-Name-From-Period.git
+[submodule "02_randomizer/7/sup_LauS-YuJ"]
+	path = 02_randomizer/7/sup_LauS-YuJ
+	url = git@github.com:jenyu7/sup.git
