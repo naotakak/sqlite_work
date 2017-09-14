@@ -127,3 +127,6 @@
 [submodule "02_randomizer/9/GoldmanJ-RahmanA"]
 	path = 02_randomizer/9/GoldmanJ-RahmanA
 	url = https://github.com/jakegoldman/SoftDev-02.git
+[submodule "02_randomizer/8/TabassumM_TaoI"]
+	path = 02_randomizer/8/TabassumM_TaoI
+	url = https://github.com/iristao/TabassumM_TaoI.git
