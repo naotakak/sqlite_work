@@ -154,3 +154,6 @@
 [submodule "03_occupation/7/Lau-Shannon_Sen-Khyber"]
 	path = 03_occupation/7/Lau-Shannon_Sen-Khyber
 	url = https://github.com/slau8/SK-II.git
+[submodule "02_randomizer/9/WongE-OlevskyL"]
+	path = 02_randomizer/9/WongE-OlevskyL
+	url = https://github.com/Edmond120/softdev1.git
