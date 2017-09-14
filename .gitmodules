@@ -91,3 +91,6 @@
 [submodule "02_randomizer/8/KeY-LeksanovD"]
 	path = 02_randomizer/8/KeY-LeksanovD
 	url = https://github.com/yiduoke/02.git
+[submodule "02_randomizer/8/FreudenbergJ-TurcottiJ"]
+	path = 02_randomizer/8/FreudenbergJ-TurcottiJ
+	url = https://github.com/JFreud/random-student.git
