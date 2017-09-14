@@ -64,3 +64,24 @@
 [submodule "02_randomizer/7/13-32-WangK-WengC"]
 	path = 02_randomizer/7/13-32-WangK-WengC
 	url = git@github.com:Char-Les/GRASS-tastes-BAD.git
+[submodule "02_randomizer/7/KinoshitaN-LeeV"]
+	path = 02_randomizer/7/KinoshitaN-LeeV
+	url = git@github.com:vivienlee00/Clout.git
+[submodule "02_randomizer/8/02Work"]
+	path = 02_randomizer/8/02Work
+	url = git@github.com:tiffanychenn/02Work.git
+[submodule "02_randomizer/8/ChenT-LeiG"]
+	path = 02_randomizer/8/ChenT-LeiG
+	url = git@github.com:tiffanychenn/02Work.git
+[submodule "02_randomizer/8/EngL-LeiC"]
+	path = 02_randomizer/8/EngL-LeiC
+	url = https://github.com/leng3/Work02.git
+[submodule "02_randomizer/9/AhmedF-LinK"]
+	path = 02_randomizer/9/AhmedF-LinK
+	url = https://github.com/fahmed3/Refresher.git
+[submodule "02_randomizer/9/KhanK-ParkP"]
+	path = 02_randomizer/9/KhanK-ParkP
+	url = https://github.com/kkhan01/MKS21QJI-RandomChooser.git
+[submodule "02_randomizer/8/ChenX-ParabS"]
+	path = 02_randomizer/8/ChenX-ParabS
+	url = https://github.com/xchen5/generateName.git
