@@ -76,3 +76,6 @@
 [submodule "02_randomizer/9/AhmedF-LinK"]
 	path = 02_randomizer/9/AhmedF-LinK
 	url = https://github.com/fahmed3/Refresher.git
+[submodule "02_randomizer/9/KhanK-ParkP"]
+	path = 02_randomizer/9/KhanK-ParkP
+	url = https://github.com/kkhan01/MKS21QJI-RandomChooser.git
