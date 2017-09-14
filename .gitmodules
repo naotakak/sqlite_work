@@ -142,3 +142,6 @@
 [submodule "02_randomizer/8/AbedinM-TungD"]
 	path = 02_randomizer/8/AbedinM-TungD
 	url = https://github.com/MdAbedin/Random-Name-Selector.git
+[submodule "02_randomizer/7/randomizer"]
+	path = 02_randomizer/7/randomizer
+	url = https://github.com/srafi1/randomizer
