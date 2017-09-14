@@ -94,3 +94,6 @@
 [submodule "02_randomizer/8/FreudenbergJ-TurcottiJ"]
 	path = 02_randomizer/8/FreudenbergJ-TurcottiJ
 	url = https://github.com/JFreud/random-student.git
+[submodule "02_randomizer/8/QuangJ-JohnstonC"]
+	path = 02_randomizer/8/QuangJ-JohnstonC
+	url = https://github.com/JonathanQuang/Random-Name-From-Period.git
