@@ -85,3 +85,6 @@
 [submodule "02_randomizer/8/ChenX-ParabS"]
 	path = 02_randomizer/8/ChenX-ParabS
 	url = https://github.com/xchen5/generateName.git
+[submodule "02_randomizer/7/YEllowWONGNumber_Wong-T_Ye-H"]
+	path = 02_randomizer/7/YEllowWONGNumber_Wong-T_Ye-H
+	url = https://github.com/taywong00/YEllowWONGNumber.git
