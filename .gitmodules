@@ -115,3 +115,6 @@
 [submodule "02_randomizer/8/ShiX_ZverovichA"]
 	path = 02_randomizer/8/ShiX_ZverovichA
 	url = https://github.com/az333/9-13-17-work.git
+[submodule "02_randomizer/8/ChernovolenkoD-FominaS"]
+	path = 02_randomizer/8/ChernovolenkoD-FominaS
+	url = https://github.com/sfomina/Work02.git
