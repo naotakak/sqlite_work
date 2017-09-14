@@ -118,3 +118,6 @@
 [submodule "02_randomizer/8/ChernovolenkoD-FominaS"]
 	path = 02_randomizer/8/ChernovolenkoD-FominaS
 	url = https://github.com/sfomina/Work02.git
+[submodule "02_randomizer/8/DoktormanD-LiE"]
+	path = 02_randomizer/8/DoktormanD-LiE
+	url = https://github.com/ddoktorman/student-randomizer.git
