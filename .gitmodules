@@ -106,3 +106,6 @@
 [submodule "02_randomizer/8/MurphyA-NgA"]
 	path = 02_randomizer/8/MurphyA-NgA
 	url = https://github.com/angelng1412/refactored-parakeet.git
+[submodule "02_randomizer/7/BabyBlueQuokkas_Moi-T_Xiang-Q"]
+	path = 02_randomizer/7/BabyBlueQuokkas_Moi-T_Xiang-Q
+	url = https://github.com/tmoi29/BabyBlueQuokkas.git
