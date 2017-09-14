@@ -100,3 +100,6 @@
 [submodule "02_randomizer/9/Watermelon_Luo-E_Siu-R"]
 	path = 02_randomizer/9/Watermelon_Luo-E_Siu-R
 	url = https://github.com/siuryan/sd-02.git
+[submodule "02_randomizer/7/sup_LauS-YuJ"]
+	path = 02_randomizer/7/sup_LauS-YuJ
+	url = git@github.com:jenyu7/sup.git
