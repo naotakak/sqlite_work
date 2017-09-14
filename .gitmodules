@@ -88,3 +88,6 @@
 [submodule "02_randomizer/7/YEllowWONGNumber_Wong-T_Ye-H"]
 	path = 02_randomizer/7/YEllowWONGNumber_Wong-T_Ye-H
 	url = https://github.com/taywong00/YEllowWONGNumber.git
+[submodule "02_randomizer/8/KeY-LeksanovD"]
+	path = 02_randomizer/8/KeY-LeksanovD
+	url = https://github.com/yiduoke/02.git
