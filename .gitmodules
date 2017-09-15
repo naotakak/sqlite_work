@@ -205,3 +205,6 @@
 [submodule "03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene"]
 	path = 03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene
 	url = https://github.com/MRuvinshteyn/MrET.git
+[submodule "03_occupation/8/KeY-LeksanovD"]
+	path = 03_occupation/8/KeY-LeksanovD
+	url = https://github.com/yiduoke/03.git
