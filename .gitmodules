@@ -229,3 +229,6 @@
 [submodule "03_occupation/9/LinK-WongA"]
 	path = 03_occupation/9/LinK-WongA
 	url = https://github.com/kylelin12/Occupations-csv.git
+[submodule "03_occupation/9/WuY-MarchiniM"]
+	path = 03_occupation/9/WuY-MarchiniM
+	url = https://github.com/Yuqiwu/work03.git
