@@ -172,3 +172,6 @@
 [submodule "03_occupation/8/AbedinM-TungD"]
 	path = 03_occupation/8/AbedinM-TungD
 	url = https://github.com/doniatung/03_occupations.git
+[submodule "03_occupation/7/PetersS_PanC"]
+	path = 03_occupation/7/PetersS_PanC
+	url = https://github.com/Carol217/PANcakes-in-PETERSburg
