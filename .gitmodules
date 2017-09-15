@@ -187,3 +187,6 @@
 [submodule "03_occupation/7/Berri-B_Cartegni-A"]
 	path = 03_occupation/7/Berri-B_Cartegni-A
 	url = https://github.com/house-ingetrac/b2-4ac.git
+[submodule "02_randomizer/7/SenK"]
+	path = 02_randomizer/7/SenK
+	url = https://github.com/kkysen/Randomizer.git
