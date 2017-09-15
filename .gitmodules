@@ -220,3 +220,6 @@
 [submodule "03_occupation/8/KalmakovaB-TaradachukA"]
 	path = 03_occupation/8/KalmakovaB-TaradachukA
 	url = https://github.com/BermetKalmakova/Occupation.git
+[submodule "03_occupation/9/Luo-E_Siu-R"]
+	path = 03_occupation/9/Luo-E_Siu-R
+	url = https://github.com/siuryan/sd-03.git
