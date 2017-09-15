@@ -169,3 +169,6 @@
 [submodule "03_occupation/7/Lam-Irene_Wong-Taylor"]
 	path = 03_occupation/7/Lam-Irene_Wong-Taylor
 	url = https://github.com/taywong00/to_be_a_clown.git
+[submodule "03_occupation/8/AbedinM-TungD"]
+	path = 03_occupation/8/AbedinM-TungD
+	url = https://github.com/doniatung/03_occupations.git
