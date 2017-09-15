@@ -208,3 +208,6 @@
 [submodule "03_occupation/8/KeY-LeksanovD"]
 	path = 03_occupation/8/KeY-LeksanovD
 	url = https://github.com/yiduoke/03.git
+[submodule "03_occupation/7/Moi-Tiffany_Higgins-Holden"]
+	path = 03_occupation/7/Moi-Tiffany_Higgins-Holden
+	url = https://github.com/tmoi29/ColoredRulers.git
