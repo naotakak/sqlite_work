@@ -214,3 +214,6 @@
 [submodule "03_occupation/7/YeH_ZhangJ"]
 	path = 03_occupation/7/YeH_ZhangJ
 	url = https://github.com/yhelen/softdev-hw03.git
+[submodule "03_occupation/7/Rafi-Shakil_Roktim-Arif"]
+	path = 03_occupation/7/Rafi-Shakil_Roktim-Arif
+	url = https://github.com/srafi1/rocket.git
