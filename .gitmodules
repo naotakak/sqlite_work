@@ -175,3 +175,6 @@
 [submodule "03_occupation/7/PetersS_PanC"]
 	path = 03_occupation/7/PetersS_PanC
 	url = https://github.com/Carol217/PANcakes-in-PETERSburg
+[submodule "03_occupation/7/Smith-Salzberg-Caleb_Lee-Vivien"]
+	path = 03_occupation/7/Smith-Salzberg-Caleb_Lee-Vivien
+	url = https://github.com/csmithsalzberg/Smith-Salzberg-Caleb_Lee-Vivien.git
