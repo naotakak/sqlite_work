@@ -190,3 +190,6 @@
 [submodule "02_randomizer/7/SenK"]
 	path = 02_randomizer/7/SenK
 	url = https://github.com/kkysen/Randomizer.git
+[submodule "03_occupation/9/LinS-ChenK"]
+	path = 03_occupation/9/LinS-ChenK
+	url = https://github.com/wertylop5/softdev_03.git
