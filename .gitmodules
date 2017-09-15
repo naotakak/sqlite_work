@@ -202,3 +202,6 @@
 [submodule "03_occupation/7/Cheung-Jasper_Weng-Charles"]
 	path = 03_occupation/7/Cheung-Jasper_Weng-Charles
 	url = git@github.com:Char-Les/Cheung-Jasper_Weng-Charles.git
+[submodule "03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene"]
+	path = 03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene
+	url = https://github.com/MRuvinshteyn/MrET.git
