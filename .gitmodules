@@ -163,3 +163,6 @@
 [submodule "03_occupation/7/Ionkina-Karina_Jahan-Ibnul"]
 	path = 03_occupation/7/Ionkina-Karina_Jahan-Ibnul
 	url = https://github.com/ibnullify/ibkewl.git
+[submodule "03_occupation/7/Wu-J_Zhang-Y"]
+	path = 03_occupation/7/Wu-J_Zhang-Y
+	url = https://github.com/joyce-wu/Wu-J_Zhang-Y.git
