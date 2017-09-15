@@ -226,3 +226,6 @@
 [submodule "03_occupation/9/OlevskyL-WongE"]
 	path = 03_occupation/9/OlevskyL-WongE
 	url = https://github.com/Edmond120/occupation.git
+[submodule "WuY-MarchiniM"]
+	path = WuY-MarchiniM
+	url = https://github.com/Yuqiwu/work03.git
