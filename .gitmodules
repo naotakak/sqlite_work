@@ -178,3 +178,6 @@
 [submodule "03_occupation/7/Smith-Salzberg-Caleb_Lee-Vivien"]
 	path = 03_occupation/7/Smith-Salzberg-Caleb_Lee-Vivien
 	url = https://github.com/csmithsalzberg/Smith-Salzberg-Caleb_Lee-Vivien.git
+[submodule "03_occupation/7/Abbas-Adam_Shifrina-Daria"]
+	path = 03_occupation/7/Abbas-Adam_Shifrina-Daria
+	url = https://github.com/Watabaws/BigOwl.git
