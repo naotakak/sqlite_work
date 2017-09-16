@@ -247,3 +247,6 @@
 [submodule "03_occupation/8/JohnstonC-QuangJ"]
 	path = 03_occupation/8/JohnstonC-QuangJ
 	url = https://github.com/clivejj/blimpo.git
+[submodule "03_occupation/9/GaoJ-ZlotskiyM"]
+	path = 03_occupation/9/GaoJ-ZlotskiyM
+	url = https://github.com/EdMaxPrime/random_occupations.git
