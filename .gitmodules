@@ -256,3 +256,6 @@
 [submodule "03_occupation/8/LeiG-ChenT"]
 	path = 03_occupation/8/LeiG-ChenT
 	url = https://github.com/GordonLei/roughDec-03-randomOccupation.git
+[submodule "03_occupation/9/KhanK-ParkP"]
+	path = 03_occupation/9/KhanK-ParkP
+	url = https://github.com/kkhan01/MKS21QJI-FileOccupySpace.git
