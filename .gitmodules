@@ -256,3 +256,6 @@
 [submodule "03_occupation/9/KhanK-ParkP"]
 	path = 03_occupation/9/KhanK-ParkP
 	url = https://github.com/kkhan01/MKS21QJI-FileOccupySpace.git
+[submodule "03_occupation/9/KorsunM-NgM"]
+	path = 03_occupation/9/KorsunM-NgM
+	url = https://github.com/MarcusNg/softdev_HW3.git
