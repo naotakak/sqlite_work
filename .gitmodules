@@ -244,3 +244,6 @@
 [submodule "03_occupation/9/ElsharawyM-JonesR"]
 	path = 03_occupation/9/ElsharawyM-JonesR
 	url = https://github.com/Razorflame3912/automatic-waffle.git
+[submodule "03_occupation/8/JohnstonC-QuangJ"]
+	path = 03_occupation/8/JohnstonC-QuangJ
+	url = https://github.com/clivejj/blimpo.git
