@@ -250,3 +250,6 @@
 [submodule "03_occupation/9/GaoJ-ZlotskiyM"]
 	path = 03_occupation/9/GaoJ-ZlotskiyM
 	url = https://github.com/EdMaxPrime/random_occupations.git
+[submodule "03_occupation/8/ChenX-ParabS"]
+	path = 03_occupation/8/ChenX-ParabS
+	url = https://github.com/sonalparab/occupation.git
