@@ -265,3 +265,6 @@
 [submodule "02_randomizer/7/LauS-YuJ"]
 	path = 02_randomizer/7/LauS-YuJ
 	url = https://github.com/jenyu7/sup.git
+[submodule "03_occupation/9/XuJ-SoeW"]
+	path = 03_occupation/9/XuJ-SoeW
+	url = https://github.com/jacqxu00/SoftDevOccupation
