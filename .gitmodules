@@ -259,3 +259,6 @@
 [submodule "03_occupation/9/KorsunM-NgM"]
 	path = 03_occupation/9/KorsunM-NgM
 	url = https://github.com/MarcusNg/softdev_HW3.git
+[submodule "03_occupation/8/DoktormanD-LiE"]
+	path = 03_occupation/8/DoktormanD-LiE
+	url = https://github.com/MrEricL/work03
