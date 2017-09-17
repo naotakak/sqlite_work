@@ -247,3 +247,6 @@
 [submodule "02_randomizer/9/MahdiI-SmithJ"]
 	path = 02_randomizer/9/MahdiI-SmithJ
 	url = https://github.com/JamesSmith1202/Assignment1.git
+[submodule "02_randomizer/9/LuoE-SiuR"]
+	path = 02_randomizer/9/LuoE-SiuR
+	url = https://github.com/siuryan/sd-02.git
