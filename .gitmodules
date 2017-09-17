@@ -241,3 +241,6 @@
 [submodule "02_randomizer/8/QuangJ-JohnstonC"]
 	path = 02_randomizer/8/QuangJ-JohnstonC
 	url = https://github.com/JonathanQuang/Random-Name-From-Period.git
+[submodule "02_randomizer/8/TaradachukA-KalmakovaB"]
+	path = 02_randomizer/8/TaradachukA-KalmakovaB
+	url = https://github.com/taradactyl27/PythOn.git
