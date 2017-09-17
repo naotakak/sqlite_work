@@ -37,27 +37,12 @@
 [submodule "02_randomizer/7/ZhangJ-ZhangY"]
 	path = 02_randomizer/7/ZhangJ-ZhangY
 	url = https://github.com/yuyangz/ZhangJ-ZhangY.git
-[submodule "02_randomizer/9/GaoJ-ZlotskiyM"]
-	path = 02_randomizer/9/GaoJ-ZlotskiyM
-	url = git@github.com:gaoj123/randomName.git
 [submodule "02_randomizer/7/Javacuation_Rafi-S_Peters-S"]
 	path = 02_randomizer/7/Javacuation_Rafi-S_Peters-S
 	url = https://github.com/srafi1/randomizer.git
 [submodule "02_randomizer/9/ChenT-ChengM"]
 	path = 02_randomizer/9/ChenT-ChengM
 	url = https://github.com/tchen9/SoftwareDev.git
-[submodule "02_randomizer/7/13-32-WangK-WengC"]
-	path = 02_randomizer/7/13-32-WangK-WengC
-	url = git@github.com:Char-Les/GRASS-tastes-BAD.git
-[submodule "02_randomizer/7/KinoshitaN-LeeV"]
-	path = 02_randomizer/7/KinoshitaN-LeeV
-	url = git@github.com:vivienlee00/Clout.git
-[submodule "02_randomizer/8/02Work"]
-	path = 02_randomizer/8/02Work
-	url = git@github.com:tiffanychenn/02Work.git
-[submodule "02_randomizer/8/ChenT-LeiG"]
-	path = 02_randomizer/8/ChenT-LeiG
-	url = git@github.com:tiffanychenn/02Work.git
 [submodule "02_randomizer/8/EngL-LeiC"]
 	path = 02_randomizer/8/EngL-LeiC
 	url = https://github.com/leng3/Work02.git
@@ -79,9 +64,6 @@
 [submodule "02_randomizer/8/FreudenbergJ-TurcottiJ"]
 	path = 02_randomizer/8/FreudenbergJ-TurcottiJ
 	url = https://github.com/JFreud/random-student.git
-[submodule "02_randomizer/7/sup_LauS-YuJ"]
-	path = 02_randomizer/7/sup_LauS-YuJ
-	url = git@github.com:jenyu7/sup.git
 [submodule "02_randomizer/8/MurphyA-NgA"]
 	path = 02_randomizer/8/MurphyA-NgA
 	url = https://github.com/angelng1412/refactored-parakeet.git
@@ -171,10 +153,10 @@
 	url = https://github.com/ykadir42/ASdfghJKl.git
 [submodule "03_occupation/7/Yu-Jen_Ngo-Samantha"]
 	path = 03_occupation/7/Yu-Jen_Ngo-Samantha
-	url = git@github.com:sngo1/fantastic-giggle.git
+	url = https://github.com/sngo1/fantastic-giggle.git
 [submodule "03_occupation/7/Cheung-Jasper_Weng-Charles"]
 	path = 03_occupation/7/Cheung-Jasper_Weng-Charles
-	url = git@github.com:Char-Les/Cheung-Jasper_Weng-Charles.git
+	url = https://github.com/Char-Les/Cheung-Jasper_Weng-Charles.git
 [submodule "03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene"]
 	path = 03_occupation/7/Ruvinshteyn-Michael_Thomas-Eugene
 	url = https://github.com/MRuvinshteyn/MrET.git
