@@ -253,3 +253,6 @@
 [submodule "02_randomizer/9/OlevskyL-WongE"]
 	path = 02_randomizer/9/OlevskyL-WongE
 	url = https://github.com/Edmond120/softdev1.git
+[submodule "02_randomizer/9/WuY-MarchiniM"]
+	path = 02_randomizer/9/WuY-MarchiniM
+	url = https://github.com/Yuqiwu/work02.git
