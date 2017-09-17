@@ -268,3 +268,6 @@
 [submodule "03_occupation/9/ChenK-LinS"]
 	path = 03_occupation/9/ChenK-LinS
 	url = https://github.com/wertylop5/softdev_03.git
+[submodule "03_occupation/9/MarchiniM-WuY"]
+	path = 03_occupation/9/MarchiniM-WuY
+	url = https://github.com/Yuqiwu/work03.git
