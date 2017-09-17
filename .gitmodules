@@ -97,9 +97,6 @@
 [submodule "02_randomizer/8/BoylanA-ZorinM"]
 	path = 02_randomizer/8/BoylanA-ZorinM
 	url = https://github.com/aboblin/getRandomStudent.git
-[submodule "02_randomizer/7/Team-JE"]
-	path = 02_randomizer/7/Team-JE
-	url = https://github.com/joyce-wu/Team-JE.git
 [submodule "02_randomizer/8/AbedinM-TungD"]
 	path = 02_randomizer/8/AbedinM-TungD
 	url = https://github.com/MdAbedin/Random-Name-Selector.git
