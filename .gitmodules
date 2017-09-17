@@ -265,3 +265,6 @@
 [submodule "03_occupation/8/ChenT-LeiG"]
 	path = 03_occupation/8/ChenT-LeiG
 	url = https://github.com/GordonLei/roughDec-03-randomOccupation.git
+[submodule "03_occupation/9/ChenK-LinS"]
+	path = 03_occupation/9/ChenK-LinS
+	url = https://github.com/wertylop5/softdev_03.git
