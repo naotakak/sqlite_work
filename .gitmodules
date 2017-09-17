@@ -256,3 +256,6 @@
 [submodule "02_randomizer/9/GaoJ-ZlotskiyM"]
 	path = 02_randomizer/9/GaoJ-ZlotskiyM
 	url = https://github.com/gaoj123/randomName.git
+[submodule "02_randomizer/7/WangK-WengC"]
+	path = 02_randomizer/7/WangK-WengC
+	url = https://github.com/Char-Les/GRASS-tastes-BAD.git
