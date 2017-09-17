@@ -235,3 +235,6 @@
 [submodule "03_occupation/8/ShiX-ZverovichA"]
 	path = 03_occupation/8/ShiX-ZverovichA
 	url = https://github.com/az333/14-9-17-softdev
+[submodule "02_randomizer/7/JahanI-LeungB"]
+	path = 02_randomizer/7/JahanI-LeungB
+	url = https://github.com/bleung329/blij_JahanI-LeungB.git
