@@ -244,3 +244,6 @@
 [submodule "02_randomizer/8/TaradachukA-KalmakovaB"]
 	path = 02_randomizer/8/TaradachukA-KalmakovaB
 	url = https://github.com/taradactyl27/PythOn.git
+[submodule "02_randomizer/9/MahdiI-SmithJ"]
+	path = 02_randomizer/9/MahdiI-SmithJ
+	url = https://github.com/JamesSmith1202/Assignment1.git
