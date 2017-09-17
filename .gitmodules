@@ -262,3 +262,6 @@
 [submodule "02_randomizer/7/KinoshitaN-LeeV"]
 	path = 02_randomizer/7/KinoshitaN-LeeV
 	url = https://github.com/vivienlee00/Clout.git
+[submodule "02_randomizer/8/ChenT-LeiG"]
+	path = 02_randomizer/8/ChenT-LeiG
+	url = https://github.com/tiffanychenn/02Work.git
