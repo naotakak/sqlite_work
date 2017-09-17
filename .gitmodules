@@ -250,3 +250,6 @@
 [submodule "02_randomizer/9/LuoE-SiuR"]
 	path = 02_randomizer/9/LuoE-SiuR
 	url = https://github.com/siuryan/sd-02.git
+[submodule "02_randomizer/9/OlevskyL-WongE"]
+	path = 02_randomizer/9/OlevskyL-WongE
+	url = https://github.com/Edmond120/softdev1.git
