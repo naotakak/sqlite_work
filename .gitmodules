@@ -268,3 +268,6 @@
 [submodule "03_occupation/9/XuJ-SoeW"]
 	path = 03_occupation/9/XuJ-SoeW
 	url = https://github.com/jacqxu00/SoftDevOccupation
+[submodule "03_occupation/9/MahdiI-SmithJ"]
+	path = 03_occupation/9/MahdiI-SmithJ
+	url = https://github.com/imahdi2000/softdev-work03.git
