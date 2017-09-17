@@ -238,3 +238,6 @@
 [submodule "02_randomizer/7/JahanI-LeungB"]
 	path = 02_randomizer/7/JahanI-LeungB
 	url = https://github.com/bleung329/blij_JahanI-LeungB.git
+[submodule "02_randomizer/8/QuangJ-JohnstonC"]
+	path = 02_randomizer/8/QuangJ-JohnstonC
+	url = https://github.com/JonathanQuang/Random-Name-From-Period.git
