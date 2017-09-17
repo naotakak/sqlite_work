@@ -256,3 +256,6 @@
 [submodule "02_randomizer/9/WuY-MarchiniM"]
 	path = 02_randomizer/9/WuY-MarchiniM
 	url = https://github.com/Yuqiwu/work02.git
+[submodule "02_randomizer/9/SoeW-XuJ"]
+	path = 02_randomizer/9/SoeW-XuJ
+	url = https://github.com/jacqxu00/SoftDevRandomizer.git
