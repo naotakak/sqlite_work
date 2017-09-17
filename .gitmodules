@@ -262,3 +262,6 @@
 [submodule "03_occupation/8/ChernovolenkoD-FominaS"]
 	path = 03_occupation/8/ChernovolenkoD-FominaS
 	url = https://github.com/dchernovolenko/works.git
+[submodule "03_occupation/9/AhmedF-LinK"]
+	path = 03_occupation/9/AhmedF-LinK
+	url = https://github.com/kristinlin/fictional-octo-enigma.git
