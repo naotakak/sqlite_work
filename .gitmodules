@@ -289,3 +289,6 @@
 [submodule "03_occupation/9/ChenT-ChengM"]
 	path = 03_occupation/9/ChenT-ChengM
 	url = https://github.com/tchen9/work3.git
+[submodule "03_occupation/8/DoktormanD-LiE"]
+	path = 03_occupation/8/DoktormanD-LiE
+	url = https://github.com/MrEricL/work03.git
