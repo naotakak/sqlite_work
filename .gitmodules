@@ -283,3 +283,6 @@
 [submodule "03_occupation/9/LiK-ZaiaJ"]
 	path = 03_occupation/9/LiK-ZaiaJ
 	url = https://github.com/jzaia18/work03.git
+[submodule "03_occupation/8/ChenK-VidaliG"]
+	path = 03_occupation/8/ChenK-VidaliG
+	url = https://github.com/kchen6600/softdev.git
