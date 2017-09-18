@@ -286,3 +286,6 @@
 [submodule "03_occupation/8/ChenK-VidaliG"]
 	path = 03_occupation/8/ChenK-VidaliG
 	url = https://github.com/kchen6600/softdev03.git
+[submodule "03_occupation/9/ChenT-ChengM"]
+	path = 03_occupation/9/ChenT-ChengM
+	url = https://github.com/tchen9/work3.git
