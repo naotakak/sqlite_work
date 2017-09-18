@@ -295,3 +295,6 @@
 [submodule "03_occupation/8/FreudenbergJ-TurcottiJ"]
 	path = 03_occupation/8/FreudenbergJ-TurcottiJ
 	url = https://github.com/JTurcotti/Occupations.git
+[submodule "03_occupation/8/Occupations"]
+	path = 03_occupation/8/Occupations
+	url = https://github.com/manahaltabassum/Occupations.git
