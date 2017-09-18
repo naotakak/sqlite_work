@@ -271,3 +271,6 @@
 [submodule "03_occupation/9/MahdiI-SmithJ"]
 	path = 03_occupation/9/MahdiI-SmithJ
 	url = https://github.com/imahdi2000/softdev-work03.git
+[submodule "03_occupation/8/MurphyA-NgA"]
+	path = 03_occupation/8/MurphyA-NgA
+	url = https://github.com/angelng1412/nine-to-five.git
