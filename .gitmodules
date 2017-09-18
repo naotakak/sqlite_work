@@ -292,3 +292,6 @@
 [submodule "03_occupation/8/DoktormanD-LiE"]
 	path = 03_occupation/8/DoktormanD-LiE
 	url = https://github.com/MrEricL/work03.git
+[submodule "03_occupation/8/FreudenbergJ-TurcottiJ"]
+	path = 03_occupation/8/FreudenbergJ-TurcottiJ
+	url = https://github.com/JTurcotti/Occupations.git
