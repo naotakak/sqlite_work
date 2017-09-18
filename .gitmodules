@@ -274,3 +274,6 @@
 [submodule "03_occupation/8/MurphyA-NgA"]
 	path = 03_occupation/8/MurphyA-NgA
 	url = https://github.com/angelng1412/nine-to-five.git
+[submodule "03_occupation/8/EngL-LeiC"]
+	path = 03_occupation/8/EngL-LeiC
+	url = https://github.com/leng3/Work03.git
