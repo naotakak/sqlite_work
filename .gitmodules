@@ -277,3 +277,6 @@
 [submodule "03_occupation/8/EngL-LeiC"]
 	path = 03_occupation/8/EngL-LeiC
 	url = https://github.com/leng3/Work03.git
+[submodule "03_occupation/8/BoylanA-ZorinM"]
+	path = 03_occupation/8/BoylanA-ZorinM
+	url = https://github.com/aboblin/occupations.git
