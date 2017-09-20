@@ -307,3 +307,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/LiE"]
 	path = 04_lemme_flask_u_sumpn/8/LiE
 	url = https://github.com/MrEricL/work04.git
+[submodule "04_lemme_flask_u_sumpn/8/work04"]
+	path = 04_lemme_flask_u_sumpn/8/work04
+	url = https://github.com/MrEricL/work04.git
