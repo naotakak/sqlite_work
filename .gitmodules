@@ -304,3 +304,6 @@
 [submodule "03_occupation/9/ChengC"]
 	path = 03_occupation/9/ChengC
 	url = https://github.com/cynthiacheng1/SofDev.git
+[submodule "04_lemme_flask_u_sumpn/8/LiE"]
+	path = 04_lemme_flask_u_sumpn/8/LiE
+	url = https://github.com/MrEricL/work04.git
