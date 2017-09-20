@@ -310,3 +310,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/WooJ"]
 	path = 04_lemme_flask_u_sumpn/8/WooJ
 	url = https://github.com/JackieW001/Milano.git
+[submodule "04_lemme_flask_u_sumpn/9/WongE"]
+	path = 04_lemme_flask_u_sumpn/9/WongE
+	url = https://github.com/Edmond120/softdev04.git
