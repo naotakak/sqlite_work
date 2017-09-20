@@ -319,3 +319,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/SiuR"]
 	path = 04_lemme_flask_u_sumpn/9/SiuR
 	url = https://github.com/siuryan/sd-04.git
+[submodule "04_lemme_flask_u_sumpn/9/ZaiaJ"]
+	path = 04_lemme_flask_u_sumpn/9/ZaiaJ
+	url = https://github.com/jzaia18/softdev04.git
