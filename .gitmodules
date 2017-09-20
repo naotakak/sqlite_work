@@ -316,3 +316,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/LinS"]
 	path = 04_lemme_flask_u_sumpn/9/LinS
 	url = https://github.com/wertylop5/softdev_04.git
+[submodule "04_lemme_flask_u_sumpn/9/SiuR"]
+	path = 04_lemme_flask_u_sumpn/9/SiuR
+	url = https://github.com/siuryan/sd-04.git
