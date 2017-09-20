@@ -322,3 +322,9 @@
 [submodule "04_lemme_flask_u_sumpn/9/ZaiaJ"]
 	path = 04_lemme_flask_u_sumpn/9/ZaiaJ
 	url = https://github.com/jzaia18/softdev04.git
+[submodule "04_lemme_flask_u_sumpn/8/erlenmeyer"]
+	path = 04_lemme_flask_u_sumpn/8/erlenmeyer
+	url = https://github.com/angelng1412/erlenmeyer.git
+[submodule "04_lemme_flask_u_sumpn/8/NgA"]
+	path = 04_lemme_flask_u_sumpn/8/NgA
+	url = https://github.com/angelng1412/erlenmeyer.git
