@@ -370,3 +370,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ElsharawyM"]
 	path = 04_lemme_flask_u_sumpn/9/ElsharawyM
 	url = https://github.com/Razorflame3912/MyFirstFlaskApp.git
+[submodule "04_lemme_flask_u_sumpn/7/Moi-Tiffany"]
+	path = 04_lemme_flask_u_sumpn/7/Moi-Tiffany
+	url = https://github.com/tmoi29/AppyFlask.git
