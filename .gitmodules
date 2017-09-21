@@ -373,3 +373,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Moi-Tiffany"]
 	path = 04_lemme_flask_u_sumpn/7/Moi-Tiffany
 	url = https://github.com/tmoi29/AppyFlask.git
+[submodule "04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka"]
+	path = 04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka
+	url = https://github.com/naotakak/hw04_fillup.git
