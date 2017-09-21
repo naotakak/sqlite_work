@@ -361,3 +361,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Lau-Shannon"]
 	path = 04_lemme_flask_u_sumpn/7/Lau-Shannon
 	url = https://github.com/slau8/softdev-04.git
+[submodule "04_lemme_flask_u_sumpn/7/Pan-Carol"]
+	path = 04_lemme_flask_u_sumpn/7/Pan-Carol
+	url = https://github.com/Carol217/Be-Wary-of-Chemicals.git
