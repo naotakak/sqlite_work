@@ -340,3 +340,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/KeY"]
 	path = 04_lemme_flask_u_sumpn/8/KeY
 	url = https://github.com/yiduoke/04.git
+[submodule "04_lemme_flask_u_sumpn/8/ZhengH"]
+	path = 04_lemme_flask_u_sumpn/8/ZhengH
+	url = https://github.com/henryz2000/flask-intro.git
