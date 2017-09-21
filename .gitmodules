@@ -376,3 +376,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka"]
 	path = 04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka
 	url = https://github.com/naotakak/hw04_fillup.git
+[submodule "04_lemme_flask_u_sumpn/7/Roktim-Arif"]
+	path = 04_lemme_flask_u_sumpn/7/Roktim-Arif
+	url = https://github.com/ArifRoktim/k04.git
