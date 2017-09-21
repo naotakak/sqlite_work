@@ -379,3 +379,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Roktim-Arif"]
 	path = 04_lemme_flask_u_sumpn/7/Roktim-Arif
 	url = https://github.com/ArifRoktim/k04.git
+[submodule "04_lemme_flask_u_sumpn/8/ChenX"]
+	path = 04_lemme_flask_u_sumpn/8/ChenX
+	url = https://github.com/xchen5/flaskIntro.git
