@@ -295,9 +295,6 @@
 [submodule "03_occupation/8/FreudenbergJ-TurcottiJ"]
 	path = 03_occupation/8/FreudenbergJ-TurcottiJ
 	url = https://github.com/JTurcotti/Occupations.git
-[submodule "03_occupation/8/Occupations"]
-	path = 03_occupation/8/Occupations
-	url = https://github.com/manahaltabassum/Occupations.git
 [submodule "03_occupation/8/TabassumM_TaoI"]
 	path = 03_occupation/8/TabassumM_TaoI
 	url = https://github.com/manahaltabassum/Occupations.git
@@ -322,9 +319,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ZaiaJ"]
 	path = 04_lemme_flask_u_sumpn/9/ZaiaJ
 	url = https://github.com/jzaia18/softdev04.git
-[submodule "04_lemme_flask_u_sumpn/8/erlenmeyer"]
-	path = 04_lemme_flask_u_sumpn/8/erlenmeyer
-	url = https://github.com/angelng1412/erlenmeyer.git
 [submodule "04_lemme_flask_u_sumpn/8/NgA"]
 	path = 04_lemme_flask_u_sumpn/8/NgA
 	url = https://github.com/angelng1412/erlenmeyer.git
@@ -346,8 +340,8 @@
 [submodule "04_lemme_flask_u_sumpn/7/Leung-Brian"]
 	path = 04_lemme_flask_u_sumpn/7/Leung-Brian
 	url = https://github.com/bleung329/TheFlask.git
-[submodule "04_lemme_flask_u_sumpn/Guan-Terry"]
-	path = 04_lemme_flask_u_sumpn/Guan-Terry
+[submodule "04_lemme_flask_u_sumpn/7/Guan-Terry"]
+	path = 04_lemme_flask_u_sumpn/7/Guan-Terry
 	url = https://github.com/TerryMinal/MontyPython.git
 [submodule "04_lemme_flask_u_sumpn/9/SoeW"]
 	path = 04_lemme_flask_u_sumpn/9/SoeW
