@@ -328,3 +328,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/NgA"]
 	path = 04_lemme_flask_u_sumpn/8/NgA
 	url = https://github.com/angelng1412/erlenmeyer.git
+[submodule "04_lemme_flask_u_sumpn/8/ParabS"]
+	path = 04_lemme_flask_u_sumpn/8/ParabS
+	url = https://github.com/sonalparab/routes.git
