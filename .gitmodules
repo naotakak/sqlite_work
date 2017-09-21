@@ -334,3 +334,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/YeH"]
 	path = 04_lemme_flask_u_sumpn/7/YeH
 	url = https://github.com/yhelen/softdev-04.git
+[submodule "04_lemme_flask_u_sumpn/7/Berri-Bayan"]
+	path = 04_lemme_flask_u_sumpn/7/Berri-Bayan
+	url = https://github.com/bberri1205/hw4sd.git
