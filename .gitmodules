@@ -358,3 +358,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ChenK"]
 	path = 04_lemme_flask_u_sumpn/8/ChenK
 	url = https://github.com/kchen6600/04softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Lau-Shannon"]
+	path = 04_lemme_flask_u_sumpn/7/Lau-Shannon
+	url = https://github.com/slau8/softdev-04.git
