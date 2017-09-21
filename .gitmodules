@@ -331,3 +331,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ParabS"]
 	path = 04_lemme_flask_u_sumpn/8/ParabS
 	url = https://github.com/sonalparab/routes.git
+[submodule "04_lemme_flask_u_sumpn/7/YeH"]
+	path = 04_lemme_flask_u_sumpn/7/YeH
+	url = https://github.com/yhelen/softdev-04.git
