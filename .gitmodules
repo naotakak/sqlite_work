@@ -343,3 +343,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ZhengH"]
 	path = 04_lemme_flask_u_sumpn/8/ZhengH
 	url = https://github.com/henryz2000/flask-intro.git
+[submodule "04_lemme_flask_u_sumpn/7/Leung-Brian"]
+	path = 04_lemme_flask_u_sumpn/7/Leung-Brian
+	url = https://github.com/bleung329/TheFlask.git
