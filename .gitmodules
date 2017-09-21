@@ -355,3 +355,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/FreudenbergJ"]
 	path = 04_lemme_flask_u_sumpn/8/FreudenbergJ
 	url = https://github.com/JFreud/scaling-flask.git
+[submodule "04_lemme_flask_u_sumpn/8/ChenK"]
+	path = 04_lemme_flask_u_sumpn/8/ChenK
+	url = https://github.com/kchen6600/04softdev.git
