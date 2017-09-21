@@ -370,3 +370,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael"]
 	path = 04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael
 	url = https://github.com/MRuvinshteyn/SD-04.git
+[submodule "04_lemme_flask_u_sumpn/9/RahmanA"]
+	path = 04_lemme_flask_u_sumpn/9/RahmanA
+	url = https://github.com/arahman5/softdev-work04.git
