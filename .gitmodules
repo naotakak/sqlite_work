@@ -349,3 +349,6 @@
 [submodule "04_lemme_flask_u_sumpn/Guan-Terry"]
 	path = 04_lemme_flask_u_sumpn/Guan-Terry
 	url = https://github.com/TerryMinal/MontyPython.git
+[submodule "04_lemme_flask_u_sumpn/9/SoeW"]
+	path = 04_lemme_flask_u_sumpn/9/SoeW
+	url = https://github.com/soe43/SoftDev04.git
