@@ -346,3 +346,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Leung-Brian"]
 	path = 04_lemme_flask_u_sumpn/7/Leung-Brian
 	url = https://github.com/bleung329/TheFlask.git
+[submodule "04_lemme_flask_u_sumpn/Guan-Terry"]
+	path = 04_lemme_flask_u_sumpn/Guan-Terry
+	url = https://github.com/TerryMinal/MontyPython.git
