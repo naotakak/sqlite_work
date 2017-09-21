@@ -367,3 +367,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/GaoJ"]
 	path = 04_lemme_flask_u_sumpn/9/GaoJ
 	url = https://github.com/gaoj123/04Flask.git
+[submodule "04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael"]
+	path = 04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael
+	url = https://github.com/MRuvinshteyn/SD-04.git
