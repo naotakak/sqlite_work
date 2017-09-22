@@ -418,3 +418,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/VidaliG"]
 	path = 04_lemme_flask_u_sumpn/8/VidaliG
 	url = https://github.com/GiorgioVi/GVidaliWork4.git
+[submodule "04_lemme_flask_u_sumpn/7/softdev_flask_04"]
+	path = 04_lemme_flask_u_sumpn/7/softdev_flask_04
+	url = https://github.com/Anish2454/softdev_flask_04.git
