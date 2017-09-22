@@ -412,3 +412,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Yu-Jen"]
 	path = 04_lemme_flask_u_sumpn/7/Yu-Jen
 	url = https://github.com/jenyu7/cautious-fiesta.git
+[submodule "04_lemme_flask_u_sumpn/7/Sen-Khyber"]
+	path = 04_lemme_flask_u_sumpn/7/Sen-Khyber
+	url = https://github.com/kkysen/First-Flask-App.git
