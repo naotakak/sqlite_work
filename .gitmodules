@@ -397,3 +397,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/LiK"]
 	path = 04_lemme_flask_u_sumpn/9/LiK
 	url = https://github.com/Kli16/symmetrical-journey.git
+[submodule "04_lemme_flask_u_sumpn/9/WongA"]
+	path = 04_lemme_flask_u_sumpn/9/WongA
+	url = https://github.com/Witide/04_lemme_flask_u_sumpn.git
