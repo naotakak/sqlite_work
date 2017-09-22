@@ -391,3 +391,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Zhang-Yuyang"]
 	path = 04_lemme_flask_u_sumpn/7/Zhang-Yuyang
 	url = https://github.com/yuyangz/Zhang-Yuyang.git
+[submodule "04_lemme_flask_u_sumpn/8/TungD"]
+	path = 04_lemme_flask_u_sumpn/8/TungD
+	url = https://github.com/doniatung/3RoadsDiverged.git
