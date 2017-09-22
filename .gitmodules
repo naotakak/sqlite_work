@@ -406,3 +406,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ChenT"]
 	path = 04_lemme_flask_u_sumpn/9/ChenT
 	url = https://github.com/tchen9/work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Xiang-Queenie"]
+	path = 04_lemme_flask_u_sumpn/7/Xiang-Queenie
+	url = https://github.com/queeniexiang/SoftDevHW4_Fill-Up-Yer-Flask.git
