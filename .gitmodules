@@ -388,3 +388,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/MahdiI"]
 	path = 04_lemme_flask_u_sumpn/9/MahdiI
 	url = https://github.com/imahdi2000/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Zhang-Yuyang"]
+	path = 04_lemme_flask_u_sumpn/7/Zhang-Yuyang
+	url = https://github.com/yuyangz/Zhang-Yuyang.git
