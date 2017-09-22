@@ -400,3 +400,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/WongA"]
 	path = 04_lemme_flask_u_sumpn/9/WongA
 	url = https://github.com/Witide/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Ionkina-Karina"]
+	path = 04_lemme_flask_u_sumpn/7/Ionkina-Karina
+	url = https://github.com/kionkina/fill_up_yer_flask.git
