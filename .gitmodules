@@ -382,3 +382,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ChenX"]
 	path = 04_lemme_flask_u_sumpn/8/ChenX
 	url = https://github.com/xchen5/flaskIntro.git
+[submodule "04_lemme_flask_u_sumpn/8/ChenT"]
+	path = 04_lemme_flask_u_sumpn/8/ChenT
+	url = git@github.com:tiffanychenn/04_lemmeFlaskUSmth.git
