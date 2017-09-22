@@ -394,3 +394,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/TungD"]
 	path = 04_lemme_flask_u_sumpn/8/TungD
 	url = https://github.com/doniatung/3RoadsDiverged.git
+[submodule "04_lemme_flask_u_sumpn/9/LiK"]
+	path = 04_lemme_flask_u_sumpn/9/LiK
+	url = https://github.com/Kli16/symmetrical-journey.git
