@@ -403,3 +403,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Ionkina-Karina"]
 	path = 04_lemme_flask_u_sumpn/7/Ionkina-Karina
 	url = https://github.com/kionkina/fill_up_yer_flask.git
+[submodule "04_lemme_flask_u_sumpn/9/ChenT"]
+	path = 04_lemme_flask_u_sumpn/9/ChenT
+	url = https://github.com/tchen9/work04.git
