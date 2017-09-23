@@ -445,3 +445,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/NgM"]
 	path = 04_lemme_flask_u_sumpn/9/NgM
 	url = https://github.com/MarcusNg/softdev_HW4.git
+[submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
+	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
+	url = https://github.com/dariashifrina/threeroutes.git
