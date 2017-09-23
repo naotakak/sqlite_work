@@ -433,3 +433,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/QuangJ"]
 	path = 04_lemme_flask_u_sumpn/9/QuangJ
 	url = https://github.com/JonathanQuang/FlaskFirstAttempt
+[submodule "04_lemme_flask_u_sumpn/9/LinK"]
+	path = 04_lemme_flask_u_sumpn/9/LinK
+	url = https://github.com/kristinlin/FlaskingQuestions.git
