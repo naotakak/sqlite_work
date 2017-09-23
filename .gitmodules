@@ -448,3 +448,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
 	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
 	url = https://github.com/dariashifrina/threeroutes.git
+[submodule "Zhang-Jennifer"]
+	path = Zhang-Jennifer
+	url = https://github.com/jennifer4569/SoftDev_HW04.git
