@@ -442,3 +442,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ZlotskiyM"]
 	path = 04_lemme_flask_u_sumpn/9/ZlotskiyM
 	url = https://github.com/EdMaxPrime/04Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/NgM"]
+	path = 04_lemme_flask_u_sumpn/9/NgM
+	url = https://github.com/MarcusNg/softdev_HW4.git
