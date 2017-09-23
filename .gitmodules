@@ -451,3 +451,6 @@
 [submodule "Zhang-Jennifer"]
 	path = Zhang-Jennifer
 	url = https://github.com/jennifer4569/SoftDev_HW04.git
+[submodule "04_lemme_flask_u_sumpn/7/Zhang-Jennifer"]
+	path = 04_lemme_flask_u_sumpn/7/Zhang-Jennifer
+	url = https://github.com/jennifer4569/SoftDev_HW04.git
