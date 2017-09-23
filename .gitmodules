@@ -436,3 +436,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/LinK"]
 	path = 04_lemme_flask_u_sumpn/9/LinK
 	url = https://github.com/kristinlin/FlaskingQuestions.git
+[submodule "04_lemme_flask_u_sumpn/9/SmithJ"]
+	path = 04_lemme_flask_u_sumpn/9/SmithJ
+	url = https://github.com/JamesSmith1202/softdev-work04.git
