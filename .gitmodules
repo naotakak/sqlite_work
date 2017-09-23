@@ -427,3 +427,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Rafi-Shakil"]
 	path = 04_lemme_flask_u_sumpn/7/Rafi-Shakil
 	url = https://github.com/srafi1/SD-04.git
+[submodule "04_lemme_flask_u_sumpn/9/XuJ"]
+	path = 04_lemme_flask_u_sumpn/9/XuJ
+	url = https://github.com/jacqxu00/SoftDev04Flask.git
