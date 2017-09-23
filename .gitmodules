@@ -439,3 +439,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/SmithJ"]
 	path = 04_lemme_flask_u_sumpn/9/SmithJ
 	url = https://github.com/JamesSmith1202/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/9/ZlotskiyM"]
+	path = 04_lemme_flask_u_sumpn/9/ZlotskiyM
+	url = https://github.com/EdMaxPrime/04Flask.git
