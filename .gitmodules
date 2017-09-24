@@ -463,6 +463,3 @@
 [submodule "04_lemme_flask_u_sumpn/7/Lee-Vivien"]
 	path = 04_lemme_flask_u_sumpn/7/Lee-Vivien
 	url = https://github.com/vivienlee00/babys_first_flask.git
-[submodule "04_lemme_flask_u_sumpn/8/roughDev-4-flaskDemo"]
-	path = 04_lemme_flask_u_sumpn/8/roughDev-4-flaskDemo
-	url = https://github.com/GordonLei/roughDev-4-flaskDemo.git
