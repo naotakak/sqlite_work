@@ -475,3 +475,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Wu-Joyce"]
 	path = 04_lemme_flask_u_sumpn/7/Wu-Joyce
 	url = https://github.com/joyce-wu/softdevhw04.git
+[submodule "04_lemme_flask_u_sumpn/8/TabassumM"]
+	path = 04_lemme_flask_u_sumpn/8/TabassumM
+	url = git@github.com:manahaltabassum/OrangeGlasses.git
