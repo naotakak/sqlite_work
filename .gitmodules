@@ -502,3 +502,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/FominaA"]
 	path = 04_lemme_flask_u_sumpn/8/FominaA
 	url = https://github.com/sfomina/amphibians.git
+[submodule "04_lemme_flask_u_sumpn/MarchiniM"]
+	path = 04_lemme_flask_u_sumpn/MarchiniM
+	url = https://github.com/michelamar/hw04.git
