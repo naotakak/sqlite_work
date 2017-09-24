@@ -466,3 +466,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/LeiG"]
 	path = 04_lemme_flask_u_sumpn/8/LeiG
 	url = https://github.com/GordonLei/roughDev-4-flaskDemo
+[submodule "04_lemme_flask_u_sumpn/8/ShiX"]
+	path = 04_lemme_flask_u_sumpn/8/ShiX
+	url = https://github.com/xshi0603/04-softdev.git
