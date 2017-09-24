@@ -496,3 +496,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/TabassumM"]
 	path = 04_lemme_flask_u_sumpn/8/TabassumM
 	url = git@github.com:manahaltabassum/OrangeGlasses.git
+[submodule "04_lemme_flask_u_sumpn/7/Liu-Yuanchu"]
+	path = 04_lemme_flask_u_sumpn/7/Liu-Yuanchu
+	url = https://github.com/TakingTheL/hw04_intro_to_flask_route.git
