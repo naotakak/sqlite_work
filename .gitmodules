@@ -481,3 +481,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Thomas-Eugene"]
 	path = 04_lemme_flask_u_sumpn/7/Thomas-Eugene
 	url = https://github.com/EugeneThomas/Thomas-Eugene.git
+[submodule "04_lemme_flask_u_sumpn/9/WuY"]
+	path = 04_lemme_flask_u_sumpn/9/WuY
+	url = https://github.com/Yuqiwu/work04.git
