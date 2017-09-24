@@ -490,3 +490,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Wang-Kelly"]
 	path = 04_lemme_flask_u_sumpn/7/Wang-Kelly
 	url = git@github.com:kwang7/Fill-Up-Yer-Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/KhanK"]
+	path = 04_lemme_flask_u_sumpn/9/KhanK
+	url = https://github.com/kkhan01/MKS21QJI-AllRoutesLeadToRome.git
