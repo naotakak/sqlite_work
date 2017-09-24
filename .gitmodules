@@ -469,3 +469,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ShiX"]
 	path = 04_lemme_flask_u_sumpn/8/ShiX
 	url = https://github.com/xshi0603/04-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb"]
+	path = 04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb
+	url = https://github.com/csmithsalzberg/Smith-Salzberg_Caleb.git
