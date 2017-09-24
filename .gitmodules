@@ -454,3 +454,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/LeiC"]
 	path = 04_lemme_flask_u_sumpn/8/LeiC
 	url = https://github.com/clei1/softdev-flask.git
+[submodule "04_lemme_flask_u_sumpn/8/JohnstonC"]
+	path = 04_lemme_flask_u_sumpn/8/JohnstonC
+	url = https://github.com/clivejj/flask_intro.git
