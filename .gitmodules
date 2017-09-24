@@ -487,3 +487,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/AhmedF"]
 	path = 04_lemme_flask_u_sumpn/9/AhmedF
 	url = https://github.com/fahmed3/work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Wang-Kelly"]
+	path = 04_lemme_flask_u_sumpn/7/Wang-Kelly
+	url = git@github.com:kwang7/Fill-Up-Yer-Flask.git
