@@ -460,3 +460,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ZverovichA"]
 	path = 04_lemme_flask_u_sumpn/8/ZverovichA
 	url = https://github.com/az333/20-9-17-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Lee-Vivien"]
+	path = 04_lemme_flask_u_sumpn/7/Lee-Vivien
+	url = https://github.com/vivienlee00/babys_first_flask.git
