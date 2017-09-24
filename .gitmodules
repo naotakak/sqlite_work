@@ -478,3 +478,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/TabassumM"]
 	path = 04_lemme_flask_u_sumpn/8/TabassumM
 	url = git@github.com:manahaltabassum/OrangeGlasses.git
+[submodule "04_lemme_flask_u_sumpn/7/Thomas-Eugene"]
+	path = 04_lemme_flask_u_sumpn/7/Thomas-Eugene
+	url = https://github.com/EugeneThomas/Thomas-Eugene.git
