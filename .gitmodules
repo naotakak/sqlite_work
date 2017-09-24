@@ -457,6 +457,3 @@
 [submodule "04_lemme_flask_u_sumpn/8/JohnstonC"]
 	path = 04_lemme_flask_u_sumpn/8/JohnstonC
 	url = https://github.com/clivejj/flask_intro.git
-[submodule "ZverovichA"]
-	path = ZverovichA
-	url = https://github.com/az333/20-9-17-softdev.git
