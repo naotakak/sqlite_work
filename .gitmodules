@@ -472,3 +472,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb"]
 	path = 04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb
 	url = https://github.com/csmithsalzberg/Smith-Salzberg_Caleb.git
+[submodule "04_lemme_flask_u_sumpn/7/Wu-Joyce"]
+	path = 04_lemme_flask_u_sumpn/7/Wu-Joyce
+	url = https://github.com/joyce-wu/softdevhw04.git
