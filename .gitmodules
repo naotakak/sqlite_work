@@ -565,3 +565,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/TaoI"]
 	path = 04_lemme_flask_u_sumpn/8/TaoI
 	url = https://github.com/iristao/flask-intro.git
+[submodule "04_lemme_flask_u_sumpn/9/ChengM"]
+	path = 04_lemme_flask_u_sumpn/9/ChengM
+	url = https://github.com/mcheng3/sd_work04.git
