@@ -547,3 +547,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Ngo-Samantha"]
 	path = 04_lemme_flask_u_sumpn/7/Ngo-Samantha
 	url = https://github.com/sngo1/reimagined-umbrella.git
+[submodule "04_lemme_flask_u_sumpn/8/ZorinM"]
+	path = 04_lemme_flask_u_sumpn/8/ZorinM
+	url = https://github.com/MashaZorin/04_lemme_flask_u_sumpn.git
