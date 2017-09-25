@@ -541,9 +541,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Kadir-Jawadul"]
 	path = 04_lemme_flask_u_sumpn/7/Kadir-Jawadul
 	url = https://github.com/ykadir42/K04.git
-[submodule "KalmakovaB"]
-	path = KalmakovaB
-	url = https://github.com/BermetKalmakova/FlaskHW.git
 [submodule "04_lemme_flask_u_sumpn/8/KalmakovaB"]
 	path = 04_lemme_flask_u_sumpn/8/KalmakovaB
 	url = https://github.com/BermetKalmakova/Flaskapp.git
