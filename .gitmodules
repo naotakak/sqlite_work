@@ -520,3 +520,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Cartegni-Alessandro"]
 	path = 04_lemme_flask_u_sumpn/7/Cartegni-Alessandro
 	url = https://github.com/house-ingetrac/flask-u-sumpn.git
+[submodule "04_lemme_flask_u_sumpn/9/LinKyle"]
+	path = 04_lemme_flask_u_sumpn/9/LinKyle
+	url = https://github.com/kylelin12/Flask.git
