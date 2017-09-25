@@ -538,3 +538,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/LeksanovD"]
 	path = 04_lemme_flask_u_sumpn/8/LeksanovD
 	url = https://github.com/DimitriyL/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Kadir-Jawadul"]
+	path = 04_lemme_flask_u_sumpn/7/Kadir-Jawadul
+	url = https://github.com/ykadir42/K04.git
