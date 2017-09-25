@@ -568,6 +568,3 @@
 [submodule "04_lemme_flask_u_sumpn/9/ChengM"]
 	path = 04_lemme_flask_u_sumpn/9/ChengM
 	url = https://github.com/mcheng3/sd_work04.git
-[submodule "04_lemme_flask_u_sumpn/ChernovolenkoD"]
-	path = 04_lemme_flask_u_sumpn/ChernovolenkoD
-	url = https://github.com/dchernovolenko/04hw.git
