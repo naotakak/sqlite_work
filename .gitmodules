@@ -544,3 +544,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/KalmakovaB"]
 	path = 04_lemme_flask_u_sumpn/8/KalmakovaB
 	url = https://github.com/BermetKalmakova/Flaskapp.git
+[submodule "04_lemme_flask_u_sumpn/7/Ngo-Samantha"]
+	path = 04_lemme_flask_u_sumpn/7/Ngo-Samantha
+	url = https://github.com/sngo1/reimagined-umbrella.git
