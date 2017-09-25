@@ -505,3 +505,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/MarchiniM"]
 	path = 04_lemme_flask_u_sumpn/9/MarchiniM
 	url = https://github.com/michelamar/hw04.git
+[submodule "04_lemme_flask_u_sumpn/9/ChenK"]
+	path = 04_lemme_flask_u_sumpn/9/ChenK
+	url = https://github.com/kchen36/upgraded-palm-tree.git
