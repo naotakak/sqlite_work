@@ -508,3 +508,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ChenK"]
 	path = 04_lemme_flask_u_sumpn/9/ChenK
 	url = https://github.com/kchen36/upgraded-palm-tree.git
+[submodule "04_lemme_flask_u_sumpn/7/Abbas-A"]
+	path = 04_lemme_flask_u_sumpn/7/Abbas-A
+	url = https://github.com/Watabaws/FillErUp.git
