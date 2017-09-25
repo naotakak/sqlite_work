@@ -559,3 +559,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/BoylanA"]
 	path = 04_lemme_flask_u_sumpn/8/BoylanA
 	url = https://github.com/aboblin/babysFirstFlask.git
+[submodule "04_lemme_flask_u_sumpn/9/JonesA"]
+	path = 04_lemme_flask_u_sumpn/9/JonesA
+	url = https://github.com/raythejones/softdev.git
