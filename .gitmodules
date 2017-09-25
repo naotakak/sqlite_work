@@ -529,3 +529,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/GoldmanJ"]
 	path = 04_lemme_flask_u_sumpn/9/GoldmanJ
 	url = https://github.com/jakegoldman/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Peters_Shaina"]
+	path = 04_lemme_flask_u_sumpn/7/Peters_Shaina
+	url = https://github.com/darthbeep/Routes
