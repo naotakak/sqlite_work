@@ -556,3 +556,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Wong-Taylor"]
 	path = 04_lemme_flask_u_sumpn/7/Wong-Taylor
 	url = https://github.com/taywong00/softdev_hw04.git
+[submodule "04_lemme_flask_u_sumpn/8/BoylanA"]
+	path = 04_lemme_flask_u_sumpn/8/BoylanA
+	url = https://github.com/aboblin/babysFirstFlask.git
