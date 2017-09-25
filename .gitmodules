@@ -562,3 +562,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/JonesA"]
 	path = 04_lemme_flask_u_sumpn/9/JonesA
 	url = https://github.com/raythejones/softdev.git
+[submodule "04_lemme_flask_u_sumpn/8/TaoI"]
+	path = 04_lemme_flask_u_sumpn/8/TaoI
+	url = https://github.com/iristao/flask-intro.git
