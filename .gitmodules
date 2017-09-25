@@ -532,3 +532,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Peters_Shaina"]
 	path = 04_lemme_flask_u_sumpn/7/Peters_Shaina
 	url = https://github.com/darthbeep/Routes
+[submodule "04_lemme_flask_u_sumpn/9/LuoE"]
+	path = 04_lemme_flask_u_sumpn/9/LuoE
+	url = https://github.com/Hyhyme/SoftDev04.git
