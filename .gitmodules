@@ -622,3 +622,6 @@
 [submodule "05_occupy_flask_st/9/chengC-zaiaJ"]
 	path = 05_occupy_flask_st/9/chengC-zaiaJ
 	url = https://github.com/jzaia18/softdev05.git
+[submodule "05_occupy_flask_st/9/chenT-chengM"]
+	path = 05_occupy_flask_st/9/chenT-chengM
+	url = https://github.com/mcheng3/sd_05_occupy_flask_st.git
