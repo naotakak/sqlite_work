@@ -616,3 +616,6 @@
 [submodule "05_occupy_flask_st/9/goldmanJ-rahmanA"]
 	path = 05_occupy_flask_st/9/goldmanJ-rahmanA
 	url = https://github.com/jakegoldman/softdev-work05.git
+[submodule "05_occupy_flask_st/7/rafiS-roktimA"]
+	path = 05_occupy_flask_st/7/rafiS-roktimA
+	url = https://github.com/srafi1/sd-05
