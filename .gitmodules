@@ -646,3 +646,9 @@
 [submodule "05_occupy_flask_st/7/KadirJ-ShenoyA"]
 	path = 05_occupy_flask_st/7/KadirJ-ShenoyA
 	url = https://github.com/ykadir42/ASdfghJKlFlask.git
+[submodule "05_occupy_flask_st/9/gaoJ-zl"]
+	path = 05_occupy_flask_st/9/gaoJ-zl
+	url = https://github.com/gaoj123/05JobJinja.git
+[submodule "05_occupy_flask_st/9/gaoJ-zlotskiyM"]
+	path = 05_occupy_flask_st/9/gaoJ-zlotskiyM
+	url = https://github.com/gaoj123/05JobJinja.git
