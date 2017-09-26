@@ -640,3 +640,6 @@
 [submodule "05_occupy_flask_st/7/IonkinaK-JahanI"]
 	path = 05_occupy_flask_st/7/IonkinaK-JahanI
 	url = git@github.com:kionkina/KB-Toys.git
+[submodule "05_occupy_flask_st/8/leiC-zorinM"]
+	path = 05_occupy_flask_st/8/leiC-zorinM
+	url = https://github.com/clei1/occupation.git
