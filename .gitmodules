@@ -607,3 +607,6 @@
 [submodule "05_occupy_flask_st/9/xuJ-soeW"]
 	path = 05_occupy_flask_st/9/xuJ-soeW
 	url = https://github.com/jacqxu00/SoftDev05Jinja.git
+[submodule "05_occupy_flask_st/9/elsharawyM-jonesR"]
+	path = 05_occupy_flask_st/9/elsharawyM-jonesR
+	url = https://github.com/stuy-softdev/workshop.git
