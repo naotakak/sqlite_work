@@ -613,3 +613,6 @@
 [submodule "05_occupy_flask_st/7/KinoshitaN-WongT"]
 	path = 05_occupy_flask_st/7/KinoshitaN-WongT
 	url = https://github.com/naotakak/occupy_flask.git
+[submodule "05_occupy_flask_st/9/goldmanJ-rahmanA"]
+	path = 05_occupy_flask_st/9/goldmanJ-rahmanA
+	url = https://github.com/jakegoldman/softdev-work05.git
