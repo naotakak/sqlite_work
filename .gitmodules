@@ -589,3 +589,9 @@
 [submodule "04_lemme_flask_u_sumpn/8/AbedinM"]
 	path = 04_lemme_flask_u_sumpn/8/AbedinM
 	url = https://github.com/MdAbedin/04-Flask.git
+[submodule "04_lemme_flask_u_sumpn/8/DoktormanD"]
+	path = 04_lemme_flask_u_sumpn/8/DoktormanD
+	url = https://github.com/ddoktorman/flask-routes.git
+[submodule "04_lemme_flask_u_sumpn/8/flask-routes"]
+	path = 04_lemme_flask_u_sumpn/8/flask-routes
+	url = https://github.com/ddoktorman/flask-routes.git
