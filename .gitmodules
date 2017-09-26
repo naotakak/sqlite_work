@@ -295,9 +295,6 @@
 [submodule "03_occupation/8/FreudenbergJ-TurcottiJ"]
 	path = 03_occupation/8/FreudenbergJ-TurcottiJ
 	url = https://github.com/JTurcotti/Occupations.git
-[submodule "03_occupation/8/Occupations"]
-	path = 03_occupation/8/Occupations
-	url = https://github.com/manahaltabassum/Occupations.git
 [submodule "03_occupation/8/TabassumM_TaoI"]
 	path = 03_occupation/8/TabassumM_TaoI
 	url = https://github.com/manahaltabassum/Occupations.git
@@ -322,9 +319,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ZaiaJ"]
 	path = 04_lemme_flask_u_sumpn/9/ZaiaJ
 	url = https://github.com/jzaia18/softdev04.git
-[submodule "04_lemme_flask_u_sumpn/8/erlenmeyer"]
-	path = 04_lemme_flask_u_sumpn/8/erlenmeyer
-	url = https://github.com/angelng1412/erlenmeyer.git
 [submodule "04_lemme_flask_u_sumpn/8/NgA"]
 	path = 04_lemme_flask_u_sumpn/8/NgA
 	url = https://github.com/angelng1412/erlenmeyer.git
@@ -346,8 +340,8 @@
 [submodule "04_lemme_flask_u_sumpn/7/Leung-Brian"]
 	path = 04_lemme_flask_u_sumpn/7/Leung-Brian
 	url = https://github.com/bleung329/TheFlask.git
-[submodule "04_lemme_flask_u_sumpn/Guan-Terry"]
-	path = 04_lemme_flask_u_sumpn/Guan-Terry
+[submodule "04_lemme_flask_u_sumpn/7/Guan-Terry"]
+	path = 04_lemme_flask_u_sumpn/7/Guan-Terry
 	url = https://github.com/TerryMinal/MontyPython.git
 [submodule "04_lemme_flask_u_sumpn/9/SoeW"]
 	path = 04_lemme_flask_u_sumpn/9/SoeW
@@ -361,3 +355,231 @@
 [submodule "04_lemme_flask_u_sumpn/7/Weng-Charles"]
 	path = 04_lemme_flask_u_sumpn/7/Weng-Charles
 	url = https://github.com/Char-Les/SoftFlask.git
+[submodule "04_lemme_flask_u_sumpn/7/Lau-Shannon"]
+	path = 04_lemme_flask_u_sumpn/7/Lau-Shannon
+	url = https://github.com/slau8/softdev-04.git
+[submodule "04_lemme_flask_u_sumpn/7/Pan-Carol"]
+	path = 04_lemme_flask_u_sumpn/7/Pan-Carol
+	url = https://github.com/Carol217/Be-Wary-of-Chemicals.git
+[submodule "04_lemme_flask_u_sumpn/9/GaoJ"]
+	path = 04_lemme_flask_u_sumpn/9/GaoJ
+	url = https://github.com/gaoj123/04Flask.git
+[submodule "04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael"]
+	path = 04_lemme_flask_u_sumpn/7/Ruvinshteyn-Michael
+	url = https://github.com/MRuvinshteyn/SD-04.git
+[submodule "04_lemme_flask_u_sumpn/9/RahmanA"]
+	path = 04_lemme_flask_u_sumpn/9/RahmanA
+	url = https://github.com/arahman5/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/9/ElsharawyM"]
+	path = 04_lemme_flask_u_sumpn/9/ElsharawyM
+	url = https://github.com/Razorflame3912/MyFirstFlaskApp.git
+[submodule "04_lemme_flask_u_sumpn/7/Moi-Tiffany"]
+	path = 04_lemme_flask_u_sumpn/7/Moi-Tiffany
+	url = https://github.com/tmoi29/AppyFlask.git
+[submodule "04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka"]
+	path = 04_lemme_flask_u_sumpn/7/Kinoshita-Naotaka
+	url = https://github.com/naotakak/hw04_fillup.git
+[submodule "04_lemme_flask_u_sumpn/7/Roktim-Arif"]
+	path = 04_lemme_flask_u_sumpn/7/Roktim-Arif
+	url = https://github.com/ArifRoktim/k04.git
+[submodule "04_lemme_flask_u_sumpn/8/ChenX"]
+	path = 04_lemme_flask_u_sumpn/8/ChenX
+	url = https://github.com/xchen5/flaskIntro.git
+[submodule "04_lemme_flask_u_sumpn/8/ChenT"]
+	path = 04_lemme_flask_u_sumpn/8/ChenT
+	url = git@github.com:tiffanychenn/04_lemmeFlaskUSmth.git
+[submodule "04_lemme_flask_u_sumpn/9/MahdiI"]
+	path = 04_lemme_flask_u_sumpn/9/MahdiI
+	url = https://github.com/imahdi2000/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Zhang-Yuyang"]
+	path = 04_lemme_flask_u_sumpn/7/Zhang-Yuyang
+	url = https://github.com/yuyangz/Zhang-Yuyang.git
+[submodule "04_lemme_flask_u_sumpn/8/TungD"]
+	path = 04_lemme_flask_u_sumpn/8/TungD
+	url = https://github.com/doniatung/3RoadsDiverged.git
+[submodule "04_lemme_flask_u_sumpn/9/LiK"]
+	path = 04_lemme_flask_u_sumpn/9/LiK
+	url = https://github.com/Kli16/symmetrical-journey.git
+[submodule "04_lemme_flask_u_sumpn/9/WongA"]
+	path = 04_lemme_flask_u_sumpn/9/WongA
+	url = https://github.com/Witide/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Ionkina-Karina"]
+	path = 04_lemme_flask_u_sumpn/7/Ionkina-Karina
+	url = https://github.com/kionkina/fill_up_yer_flask.git
+[submodule "04_lemme_flask_u_sumpn/9/ChenT"]
+	path = 04_lemme_flask_u_sumpn/9/ChenT
+	url = https://github.com/tchen9/work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Xiang-Queenie"]
+	path = 04_lemme_flask_u_sumpn/7/Xiang-Queenie
+	url = https://github.com/queeniexiang/SoftDevHW4_Fill-Up-Yer-Flask.git
+[submodule "04_lemme_flask_u_sumpn/7/Yu-Jen"]
+	path = 04_lemme_flask_u_sumpn/7/Yu-Jen
+	url = https://github.com/jenyu7/cautious-fiesta.git
+[submodule "04_lemme_flask_u_sumpn/7/Sen-Khyber"]
+	path = 04_lemme_flask_u_sumpn/7/Sen-Khyber
+	url = https://github.com/kkysen/First-Flask-App.git
+[submodule "04_lemme_flask_u_sumpn/8/VidaliG"]
+	path = 04_lemme_flask_u_sumpn/8/VidaliG
+	url = https://github.com/GiorgioVi/GVidaliWork4.git
+[submodule "04_lemme_flask_u_sumpn/7/Shenoy-Anish"]
+	path = 04_lemme_flask_u_sumpn/7/Shenoy-Anish
+	url = https://github.com/Anish2454/softdev_flask_04.git
+[submodule "04_lemme_flask_u_sumpn/7/Rafi-Shakil"]
+	path = 04_lemme_flask_u_sumpn/7/Rafi-Shakil
+	url = https://github.com/srafi1/SD-04.git
+[submodule "04_lemme_flask_u_sumpn/9/XuJ"]
+	path = 04_lemme_flask_u_sumpn/9/XuJ
+	url = https://github.com/jacqxu00/SoftDev04Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/QuangJ"]
+	path = 04_lemme_flask_u_sumpn/9/QuangJ
+	url = https://github.com/JonathanQuang/FlaskFirstAttempt
+[submodule "04_lemme_flask_u_sumpn/9/LinK"]
+	path = 04_lemme_flask_u_sumpn/9/LinK
+	url = https://github.com/kristinlin/FlaskingQuestions.git
+[submodule "04_lemme_flask_u_sumpn/9/SmithJ"]
+	path = 04_lemme_flask_u_sumpn/9/SmithJ
+	url = https://github.com/JamesSmith1202/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/9/ZlotskiyM"]
+	path = 04_lemme_flask_u_sumpn/9/ZlotskiyM
+	url = https://github.com/EdMaxPrime/04Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/NgM"]
+	path = 04_lemme_flask_u_sumpn/9/NgM
+	url = https://github.com/MarcusNg/softdev_HW4.git
+[submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
+	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
+	url = https://github.com/dariashifrina/threeroutes.git
+[submodule "Zhang-Jennifer"]
+	path = Zhang-Jennifer
+	url = https://github.com/jennifer4569/SoftDev_HW04.git
+[submodule "04_lemme_flask_u_sumpn/7/Zhang-Jennifer"]
+	path = 04_lemme_flask_u_sumpn/7/Zhang-Jennifer
+	url = https://github.com/jennifer4569/SoftDev_HW04.git
+[submodule "04_lemme_flask_u_sumpn/8/LeiC"]
+	path = 04_lemme_flask_u_sumpn/8/LeiC
+	url = https://github.com/clei1/softdev-flask.git
+[submodule "04_lemme_flask_u_sumpn/8/JohnstonC"]
+	path = 04_lemme_flask_u_sumpn/8/JohnstonC
+	url = https://github.com/clivejj/flask_intro.git
+[submodule "04_lemme_flask_u_sumpn/8/ZverovichA"]
+	path = 04_lemme_flask_u_sumpn/8/ZverovichA
+	url = https://github.com/az333/20-9-17-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Lee-Vivien"]
+	path = 04_lemme_flask_u_sumpn/7/Lee-Vivien
+	url = https://github.com/vivienlee00/babys_first_flask.git
+[submodule "04_lemme_flask_u_sumpn/8/LeiG"]
+	path = 04_lemme_flask_u_sumpn/8/LeiG
+	url = https://github.com/GordonLei/roughDev-4-flaskDemo
+[submodule "04_lemme_flask_u_sumpn/8/ShiX"]
+	path = 04_lemme_flask_u_sumpn/8/ShiX
+	url = https://github.com/xshi0603/04-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb"]
+	path = 04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb
+	url = https://github.com/csmithsalzberg/Smith-Salzberg_Caleb.git
+[submodule "04_lemme_flask_u_sumpn/7/Wu-Joyce"]
+	path = 04_lemme_flask_u_sumpn/7/Wu-Joyce
+	url = https://github.com/joyce-wu/softdevhw04.git
+[submodule "04_lemme_flask_u_sumpn/7/Thomas-Eugene"]
+	path = 04_lemme_flask_u_sumpn/7/Thomas-Eugene
+	url = https://github.com/EugeneThomas/Thomas-Eugene.git
+[submodule "04_lemme_flask_u_sumpn/9/WuY"]
+	path = 04_lemme_flask_u_sumpn/9/WuY
+	url = https://github.com/Yuqiwu/work04.git
+[submodule "04_lemme_flask_u_sumpn/9/AhmedF"]
+	path = 04_lemme_flask_u_sumpn/9/AhmedF
+	url = https://github.com/fahmed3/work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Wang-Kelly"]
+	path = 04_lemme_flask_u_sumpn/7/Wang-Kelly
+	url = git@github.com:kwang7/Fill-Up-Yer-Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/KhanK"]
+	path = 04_lemme_flask_u_sumpn/9/KhanK
+	url = https://github.com/kkhan01/MKS21QJI-AllRoutesLeadToRome.git
+[submodule "04_lemme_flask_u_sumpn/7/Lam-Irene"]
+	path = 04_lemme_flask_u_sumpn/7/Lam-Irene
+	url = https://github.com/ilam1/Lam-Irene.git
+[submodule "04_lemme_flask_u_sumpn/8/TabassumM"]
+	path = 04_lemme_flask_u_sumpn/8/TabassumM
+	url = git@github.com:manahaltabassum/OrangeGlasses.git
+[submodule "04_lemme_flask_u_sumpn/7/Liu-Yuanchu"]
+	path = 04_lemme_flask_u_sumpn/7/Liu-Yuanchu
+	url = https://github.com/TakingTheL/hw04_intro_to_flask_route.git
+[submodule "04_lemme_flask_u_sumpn/8/FominaA"]
+	path = 04_lemme_flask_u_sumpn/8/FominaA
+	url = https://github.com/sfomina/amphibians.git
+[submodule "04_lemme_flask_u_sumpn/9/MarchiniM"]
+	path = 04_lemme_flask_u_sumpn/9/MarchiniM
+	url = https://github.com/michelamar/hw04.git
+[submodule "04_lemme_flask_u_sumpn/9/ChenK"]
+	path = 04_lemme_flask_u_sumpn/9/ChenK
+	url = https://github.com/kchen36/upgraded-palm-tree.git
+[submodule "04_lemme_flask_u_sumpn/7/Abbas-A"]
+	path = 04_lemme_flask_u_sumpn/7/Abbas-A
+	url = https://github.com/Watabaws/FillErUp.git
+[submodule "04_lemme_flask_u_sumpn/7/Cheung-Jasper"]
+	path = 04_lemme_flask_u_sumpn/7/Cheung-Jasper
+	url = https://github.com/JasperCheung/hw04_fillup.git
+[submodule "04_lemme_flask_u_sumpn/9/OlevskyL"]
+	path = 04_lemme_flask_u_sumpn/9/OlevskyL
+	url = https://github.com/stuy-softdev/04_soft-dev.git
+[submodule "04_lemme_flask_u_sumpn/7/Cartegni-Alessandro"]
+	path = 04_lemme_flask_u_sumpn/7/Cartegni-Alessandro
+	url = https://github.com/house-ingetrac/flask-u-sumpn.git
+[submodule "04_lemme_flask_u_sumpn/9/LinKyle"]
+	path = 04_lemme_flask_u_sumpn/9/LinKyle
+	url = https://github.com/kylelin12/Flask.git
+[submodule "04_lemme_flask_u_sumpn/7/Jahan-Ibnul"]
+	path = 04_lemme_flask_u_sumpn/7/Jahan-Ibnul
+	url = https://github.com/ibnullify/SnakeskinFlask.git
+[submodule "04_lemme_flask_u_sumpn/9/GoldmanJ"]
+	path = 04_lemme_flask_u_sumpn/9/GoldmanJ
+	url = https://github.com/jakegoldman/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Peters_Shaina"]
+	path = 04_lemme_flask_u_sumpn/7/Peters_Shaina
+	url = https://github.com/darthbeep/Routes
+[submodule "04_lemme_flask_u_sumpn/9/LuoE"]
+	path = 04_lemme_flask_u_sumpn/9/LuoE
+	url = https://github.com/Hyhyme/SoftDev04.git
+[submodule "04_lemme_flask_u_sumpn/8/LeksanovD"]
+	path = 04_lemme_flask_u_sumpn/8/LeksanovD
+	url = https://github.com/DimitriyL/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Kadir-Jawadul"]
+	path = 04_lemme_flask_u_sumpn/7/Kadir-Jawadul
+	url = https://github.com/ykadir42/K04.git
+[submodule "04_lemme_flask_u_sumpn/8/KalmakovaB"]
+	path = 04_lemme_flask_u_sumpn/8/KalmakovaB
+	url = https://github.com/BermetKalmakova/Flaskapp.git
+[submodule "04_lemme_flask_u_sumpn/7/Ngo-Samantha"]
+	path = 04_lemme_flask_u_sumpn/7/Ngo-Samantha
+	url = https://github.com/sngo1/reimagined-umbrella.git
+[submodule "04_lemme_flask_u_sumpn/8/ZorinM"]
+	path = 04_lemme_flask_u_sumpn/8/ZorinM
+	url = https://github.com/MashaZorin/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/8/ZorinMa"]
+	path = 04_lemme_flask_u_sumpn/8/ZorinMa
+	url = https://github.com/MashaZorin/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Wong-Taylor"]
+	path = 04_lemme_flask_u_sumpn/7/Wong-Taylor
+	url = https://github.com/taywong00/softdev_hw04.git
+[submodule "04_lemme_flask_u_sumpn/8/BoylanA"]
+	path = 04_lemme_flask_u_sumpn/8/BoylanA
+	url = https://github.com/aboblin/babysFirstFlask.git
+[submodule "04_lemme_flask_u_sumpn/9/JonesA"]
+	path = 04_lemme_flask_u_sumpn/9/JonesA
+	url = https://github.com/raythejones/softdev.git
+[submodule "04_lemme_flask_u_sumpn/8/TaoI"]
+	path = 04_lemme_flask_u_sumpn/8/TaoI
+	url = https://github.com/iristao/flask-intro.git
+[submodule "04_lemme_flask_u_sumpn/9/ChengM"]
+	path = 04_lemme_flask_u_sumpn/9/ChengM
+	url = https://github.com/mcheng3/sd_work04.git
+[submodule "04_lemme_flask_u_sumpn/8/ChernovolenkoD"]
+	path = 04_lemme_flask_u_sumpn/8/ChernovolenkoD
+	url = https://github.com/dchernovolenko/04hw.git
+[submodule "04_lemme_flask_u_sumpn/9/ParkP"]
+	path = 04_lemme_flask_u_sumpn/9/ParkP
+	url = https://github.com/ppark3/04.git
+[submodule "04_lemme_flask_u_sumpn/7/Pan-Carol-pt2"]
+	path = 04_lemme_flask_u_sumpn/7/Pan-Carol-pt2
+	url = https://github.com/Carol217/Beware-of-Leakage.git
+[submodule "04_lemme_flask_u_sumpn/9/ChengC"]
+	path = 04_lemme_flask_u_sumpn/9/ChengC
+	url = https://github.com/cynthiacheng1/SofDev.git
