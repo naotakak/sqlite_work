@@ -598,3 +598,6 @@
 [submodule "05_occupy_flask_st/7/AbbasA-ZhangY"]
 	path = 05_occupy_flask_st/7/AbbasA-ZhangY
 	url = https://github.com/Watabaws/Yaaz.git
+[submodule "05_occupy_flask_st/8/freudenbergJ-liE"]
+	path = 05_occupy_flask_st/8/freudenbergJ-liE
+	url = https://github.com/JFreud/glowing-occupy-flask.git
