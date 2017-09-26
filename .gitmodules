@@ -637,3 +637,6 @@
 [submodule "05_occupy_flask_st/9/korsunM-ngM"]
 	path = 05_occupy_flask_st/9/korsunM-ngM
 	url = https://github.com/MarcusNg/softdev_HW5.git
+[submodule "05_occupy_flask_st/7/IonkinaK-JahanI"]
+	path = 05_occupy_flask_st/7/IonkinaK-JahanI
+	url = git@github.com:kionkina/KB-Toys.git
