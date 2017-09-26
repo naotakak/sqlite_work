@@ -580,3 +580,6 @@
 [submodule "04_lemme_flask_u_sumpn/9/ChengC"]
 	path = 04_lemme_flask_u_sumpn/9/ChengC
 	url = https://github.com/cynthiacheng1/SofDev.git
+[submodule "04_lemme_flask_u_sumpn/8/TaradachukA"]
+	path = 04_lemme_flask_u_sumpn/8/TaradachukA
+	url = https://github.com/taradactyl27/FlaskTesting.git
