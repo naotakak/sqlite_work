@@ -595,3 +595,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/flask-routes"]
 	path = 04_lemme_flask_u_sumpn/8/flask-routes
 	url = https://github.com/ddoktorman/flask-routes.git
+[submodule "05_occupy_flask_st/7/AbbasA-ZhangY"]
+	path = 05_occupy_flask_st/7/AbbasA-ZhangY
+	url = https://github.com/Watabaws/Yaaz.git
