@@ -610,3 +610,6 @@
 [submodule "05_occupy_flask_st/9/linS-chenK"]
 	path = 05_occupy_flask_st/9/linS-chenK
 	url = https://github.com/wertylop5/softdev_05.git
+[submodule "05_occupy_flask_st/7/KinoshitaN-WongT"]
+	path = 05_occupy_flask_st/7/KinoshitaN-WongT
+	url = https://github.com/naotakak/occupy_flask.git
