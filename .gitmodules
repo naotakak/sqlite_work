@@ -571,3 +571,6 @@
 [submodule "04_lemme_flask_u_sumpn/8/ChernovolenkoD"]
 	path = 04_lemme_flask_u_sumpn/8/ChernovolenkoD
 	url = https://github.com/dchernovolenko/04hw.git
+[submodule "04_lemme_flask_u_sumpn/9/ParkP"]
+	path = 04_lemme_flask_u_sumpn/9/ParkP
+	url = https://github.com/ppark3/04.git
