@@ -601,3 +601,6 @@
 [submodule "05_occupy_flask_st/8/freudenbergJ-liE"]
 	path = 05_occupy_flask_st/8/freudenbergJ-liE
 	url = https://github.com/JFreud/glowing-occupy-flask.git
+[submodule "05_occupy_flask_st/9/Lins-ChenK"]
+	path = 05_occupy_flask_st/9/Lins-ChenK
+	url = https://github.com/wertylop5/softdev_05.git
