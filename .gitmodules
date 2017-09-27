@@ -625,9 +625,6 @@
 [submodule "05_occupy_flask_st/9/chenT-chengM"]
 	path = 05_occupy_flask_st/9/chenT-chengM
 	url = https://github.com/mcheng3/sd_05_occupy_flask_st.git
-[submodule "05_occupy_flask_st/WooJ-ZhengH"]
-	path = 05_occupy_flask_st/WooJ-ZhengH
-	url = https://github.com/JackieW001/SwedishFish.git
 [submodule "05_occupy_flask_st/8/ParabS-ChenX"]
 	path = 05_occupy_flask_st/8/ParabS-ChenX
 	url = https://github.com/xchen5/work05.git
