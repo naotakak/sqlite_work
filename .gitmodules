@@ -721,3 +721,6 @@
 [submodule "05_occupy_flask_st/7/WangK-XiangQ"]
 	path = 05_occupy_flask_st/7/WangK-XiangQ
 	url = https://github.com/queeniexiang/SoftDevHW5_Occupations.git
+[submodule "05_occupy_flask_st/7/berriB-cartegniA"]
+	path = 05_occupy_flask_st/7/berriB-cartegniA
+	url = https://github.com/bberri1205/k05.git
