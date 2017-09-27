@@ -655,3 +655,6 @@
 [submodule "05_occupy_flask_st/7/CheungJ-GuanT"]
 	path = 05_occupy_flask_st/7/CheungJ-GuanT
 	url = https://github.com/TerryMinal/OccupyWallStreet.git
+[submodule "05_occupy_flask_st/9/smithJ-mahdiIsh"]
+	path = 05_occupy_flask_st/9/smithJ-mahdiIsh
+	url = https://github.com/JamesSmith1202/softdev-work05.git
