@@ -517,9 +517,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Cheung-Jasper"]
 	path = 04_lemme_flask_u_sumpn/7/Cheung-Jasper
 	url = https://github.com/JasperCheung/hw04_fillup.git
-[submodule "04_lemme_flask_u_sumpn/9/OlevskyL"]
-	path = 04_lemme_flask_u_sumpn/9/OlevskyL
-	url = https://github.com/stuy-softdev/04_soft-dev.git
 [submodule "04_lemme_flask_u_sumpn/7/Cartegni-Alessandro"]
 	path = 04_lemme_flask_u_sumpn/7/Cartegni-Alessandro
 	url = https://github.com/house-ingetrac/flask-u-sumpn.git
