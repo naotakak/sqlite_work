@@ -724,3 +724,6 @@
 [submodule "05_occupy_flask_st/7/berriB-cartegniA"]
 	path = 05_occupy_flask_st/7/berriB-cartegniA
 	url = https://github.com/bberri1205/k05.git
+[submodule "05_occupy_flask_st/7/kinoshitaN-wongT"]
+	path = 05_occupy_flask_st/7/kinoshitaN-wongT
+	url = https://github.com/naotakak/occupy_flask.git
