@@ -691,3 +691,6 @@
 [submodule "05_occupy_flask_st/7/LeeV-Smith-SalzbergC"]
 	path = 05_occupy_flask_st/7/LeeV-Smith-SalzbergC
 	url = https://github.com/csmithsalzberg/LeeV-Smith-SalzbergC.git
+[submodule "05_occupy_flask_st/8/keY-leksanovD"]
+	path = 05_occupy_flask_st/8/keY-leksanovD
+	url = https://github.com/yiduoke/05.git
