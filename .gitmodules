@@ -628,9 +628,6 @@
 [submodule "05_occupy_flask_st/WooJ-ZhengH"]
 	path = 05_occupy_flask_st/WooJ-ZhengH
 	url = https://github.com/JackieW001/SwedishFish.git
-[submodule "05_occupy_flask_st/8/WooJ-ZhengH"]
-	path = 05_occupy_flask_st/8/WooJ-ZhengH
-	url = https://github.com/JackieW001/SwedishFish.git
 [submodule "05_occupy_flask_st/8/ParabS-ChenX"]
 	path = 05_occupy_flask_st/8/ParabS-ChenX
 	url = https://github.com/xchen5/work05.git
@@ -736,3 +733,6 @@
 [submodule "05_occupy_flask_st/7/lauS-thomasE"]
 	path = 05_occupy_flask_st/7/lauS-thomasE
 	url = git@github.com:slau8/softdev-05.git
+[submodule "05_occupy_flask_st/8/wooJ-zhengH"]
+	path = 05_occupy_flask_st/8/wooJ-zhengH
+	url = https://github.com/JackieW001/SwedishFish.git
