@@ -682,3 +682,6 @@
 [submodule "05_occupy_flask_st/7/MoiT-NgoS"]
 	path = 05_occupy_flask_st/7/MoiT-NgoS
 	url = https://github.com/tmoi29/SuperTele.git
+[submodule "05_occupy_flask_st/7/LamI-ShifrinaD"]
+	path = 05_occupy_flask_st/7/LamI-ShifrinaD
+	url = https://github.com/dariashifrina/glowing-giggle.git
