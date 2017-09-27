@@ -667,3 +667,6 @@
 [submodule "05_occupy_flask_st/7/Senk-RuvinshteynM_PyCharmers"]
 	path = 05_occupy_flask_st/7/Senk-RuvinshteynM_PyCharmers
 	url = https://github.com/kkysen/FlaskOccupations.git
+[submodule "05_occupy_flask_st/8/ChenK-VidaliG"]
+	path = 05_occupy_flask_st/8/ChenK-VidaliG
+	url = https://github.com/kchen6600/05Softdev.git
