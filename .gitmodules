@@ -736,3 +736,6 @@
 [submodule "05_occupy_flask_st/8/chenX-parabS"]
 	path = 05_occupy_flask_st/8/chenX-parabS
 	url = https://github.com/xchen5/work05.git
+[submodule "05_occupy_flask_st/8/abedinM-tungD"]
+	path = 05_occupy_flask_st/8/abedinM-tungD
+	url = https://github.com/doniatung/05.git
