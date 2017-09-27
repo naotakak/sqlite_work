@@ -685,3 +685,6 @@
 [submodule "05_occupy_flask_st/7/LamI-ShifrinaD"]
 	path = 05_occupy_flask_st/7/LamI-ShifrinaD
 	url = https://github.com/dariashifrina/glowing-giggle.git
+[submodule "05_occupy_flask_st/7/LeeV-Smith-SalzebergC"]
+	path = 05_occupy_flask_st/7/LeeV-Smith-SalzebergC
+	url = https://github.com/stuy-softdev/workshop.git
