@@ -697,3 +697,6 @@
 [submodule "05_occupy_flask_st/7/WengC-WuJ"]
 	path = 05_occupy_flask_st/7/WengC-WuJ
 	url = https://github.com/joyce-wu/hw05.git
+[submodule "05_occupy_flask_st/9/wuY-marchiniM"]
+	path = 05_occupy_flask_st/9/wuY-marchiniM
+	url = https://github.com/Yuqiwu/work05.git
