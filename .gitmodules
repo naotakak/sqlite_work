@@ -727,3 +727,6 @@
 [submodule "05_occupy_flask_st/7/kinoshitaN-wongT"]
 	path = 05_occupy_flask_st/7/kinoshitaN-wongT
 	url = https://github.com/naotakak/occupy_flask.git
+[submodule "05_occupy_flask_st/8/shiX-zverovichA"]
+	path = 05_occupy_flask_st/8/shiX-zverovichA
+	url = https://github.com/xshi0603/26-9-17-softdev.git
