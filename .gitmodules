@@ -703,3 +703,6 @@
 [submodule "05_occupy_flask_st/7/YeH-YuJ-ZhangJ"]
 	path = 05_occupy_flask_st/7/YeH-YuJ-ZhangJ
 	url = https://github.com/jenyu7/2JZ.git
+[submodule "05_occupy_flask_st/8/johnstonC-quangJ"]
+	path = 05_occupy_flask_st/8/johnstonC-quangJ
+	url = https://github.com/clivejj/JQMulti.git
