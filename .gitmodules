@@ -730,3 +730,6 @@
 [submodule "05_occupy_flask_st/8/shiX-zverovichA"]
 	path = 05_occupy_flask_st/8/shiX-zverovichA
 	url = https://github.com/xshi0603/26-9-17-softdev.git
+[submodule "05_occupy_flask_st/8/kalmakovaB-taradachukA"]
+	path = 05_occupy_flask_st/8/kalmakovaB-taradachukA
+	url = https://github.com/taradactyl27/JinjaNinja.git
