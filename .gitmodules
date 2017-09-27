@@ -733,3 +733,6 @@
 [submodule "05_occupy_flask_st/8/kalmakovaB-taradachukA"]
 	path = 05_occupy_flask_st/8/kalmakovaB-taradachukA
 	url = https://github.com/taradactyl27/JinjaNinja.git
+[submodule "05_occupy_flask_st/7/lauS-thomasE"]
+	path = 05_occupy_flask_st/7/lauS-thomasE
+	url = git@github.com:slau8/softdev-05.git
