@@ -748,3 +748,6 @@
 [submodule "05_occupy_flask_st/7/LeungB-LiuL"]
 	path = 05_occupy_flask_st/7/LeungB-LiuL
 	url = https://github.com/TakingTheL/More-Ls.git
+[submodule "05_occupy_flask_st/8/boylanA-chenT"]
+	path = 05_occupy_flask_st/8/boylanA-chenT
+	url = https://github.com/aboblin/Work05.git
