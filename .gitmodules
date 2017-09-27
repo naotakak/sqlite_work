@@ -655,3 +655,6 @@
 [submodule "05_occupy_flask_st/9/smithJ-mahdiIsh"]
 	path = 05_occupy_flask_st/9/smithJ-mahdiIsh
 	url = https://github.com/JamesSmith1202/softdev-work05.git
+[submodule "05_occupy_flask_st/9/linK-wongA"]
+	path = 05_occupy_flask_st/9/linK-wongA
+	url = https://github.com/Witide/05_occupy_flask_st.git
