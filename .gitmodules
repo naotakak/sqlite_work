@@ -673,3 +673,6 @@
 [submodule "05_occupy_flask_st/9/khanK-parkP"]
 	path = 05_occupy_flask_st/9/khanK-parkP
 	url = https://github.com/kkhan01/MKS21QJI-JinjaOccupation.git
+[submodule "05_occupy_flask_st/9/luoE-siuR"]
+	path = 05_occupy_flask_st/9/luoE-siuR
+	url = https://github.com/siuryan/sd-05.git
