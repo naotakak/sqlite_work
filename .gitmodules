@@ -715,3 +715,6 @@
 [submodule "05_occupy_flask_st/8/leiG-ngA"]
 	path = 05_occupy_flask_st/8/leiG-ngA
 	url = https://github.com/GordonLei/roughDev-5-flaskJobs
+[submodule "05_occupy_flask_st/9/linK"]
+	path = 05_occupy_flask_st/9/linK
+	url = https://github.com/kylelin12/Jinja-Training.git
