@@ -712,3 +712,6 @@
 [submodule "05_occupy_flask_st/9/olevskyL-wongE"]
 	path = 05_occupy_flask_st/9/olevskyL-wongE
 	url = https://github.com/LMOlevsky/05_soft-dev.git
+[submodule "05_occupy_flask_st/8/leiG-ngA"]
+	path = 05_occupy_flask_st/8/leiG-ngA
+	url = https://github.com/GordonLei/roughDev-5-flaskJobs
