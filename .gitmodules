@@ -676,3 +676,6 @@
 [submodule "05_occupy_flask_st/9/luoE-siuR"]
 	path = 05_occupy_flask_st/9/luoE-siuR
 	url = https://github.com/siuryan/sd-05.git
+[submodule "05_occupy_flask_st/7/ruvinshteynM-senK"]
+	path = 05_occupy_flask_st/7/ruvinshteynM-senK
+	url = https://github.com/kkysen/FlaskOccupations.git
