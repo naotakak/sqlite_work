@@ -736,3 +736,6 @@
 [submodule "05_occupy_flask_st/8/chenX-parabS"]
 	path = 05_occupy_flask_st/8/chenX-parabS
 	url = https://github.com/xchen5/work05.git
+[submodule "05_occupy_flask_st/7/XiangQ-WangK"]
+	path = 05_occupy_flask_st/7/XiangQ-WangK
+	url = https://github.com/queeniexiang/SoftDevHW5_Occupations.git
