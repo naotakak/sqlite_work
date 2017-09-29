@@ -751,3 +751,15 @@
 [submodule "05_occupy_flask_st/8/taoI-tabassumM"]
 	path = 05_occupy_flask_st/8/taoI-tabassumM
 	url = https://github.com/iristao/GreenFlannel.git
+[submodule "05_occupy_flask_st/8/keY-LeksanovD"]
+	path = 05_occupy_flask_st/8/keY-LeksanovD
+	url = https://github.com/yiduoke/05.git
+[submodule "05_occupy_flask_st/8/keY-leksanovd"]
+	path = 05_occupy_flask_st/8/keY-leksanovd
+	url = https://github.com/yiduoke/05.git
+[submodule "05_occupy_flask_st/8/help"]
+	path = 05_occupy_flask_st/8/help
+	url = https://github.com/yiduoke/05.git
+[submodule "05_occupy_flask_st/8/keY-leksanovD-help"]
+	path = 05_occupy_flask_st/8/keY-leksanovD-help
+	url = https://github.com/yiduoke/05.git
