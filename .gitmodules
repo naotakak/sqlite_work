@@ -763,3 +763,6 @@
 [submodule "05_occupy_flask_st/8/keY-leksanovD-help"]
 	path = 05_occupy_flask_st/8/keY-leksanovD-help
 	url = https://github.com/yiduoke/05.git
+[submodule "05_occupy_flask_st/8/keY-leksanovD-testing"]
+	path = 05_occupy_flask_st/8/keY-leksanovD-testing
+	url = https://github.com/yiduoke/05.git
