@@ -448,9 +448,6 @@
 [submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
 	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
 	url = https://github.com/dariashifrina/threeroutes.git
-[submodule "Zhang-Jennifer"]
-	path = Zhang-Jennifer
-	url = https://github.com/jennifer4569/SoftDev_HW04.git
 [submodule "04_lemme_flask_u_sumpn/7/Zhang-Jennifer"]
 	path = 04_lemme_flask_u_sumpn/7/Zhang-Jennifer
 	url = https://github.com/jennifer4569/SoftDev_HW04.git
@@ -607,9 +604,6 @@
 [submodule "05_occupy_flask_st/9/linS-chenK"]
 	path = 05_occupy_flask_st/9/linS-chenK
 	url = https://github.com/wertylop5/softdev_05.git
-[submodule "05_occupy_flask_st/7/KinoshitaN-WongT"]
-	path = 05_occupy_flask_st/7/KinoshitaN-WongT
-	url = https://github.com/naotakak/occupy_flask.git
 [submodule "05_occupy_flask_st/9/goldmanJ-rahmanA"]
 	path = 05_occupy_flask_st/9/goldmanJ-rahmanA
 	url = https://github.com/jakegoldman/softdev-work05.git
@@ -622,9 +616,6 @@
 [submodule "05_occupy_flask_st/9/chenT-chengM"]
 	path = 05_occupy_flask_st/9/chenT-chengM
 	url = https://github.com/mcheng3/sd_05_occupy_flask_st.git
-[submodule "05_occupy_flask_st/8/ParabS-ChenX"]
-	path = 05_occupy_flask_st/8/ParabS-ChenX
-	url = https://github.com/xchen5/work05.git
 [submodule "05_occupy_flask_st/9/korsunM-ngM"]
 	path = 05_occupy_flask_st/9/korsunM-ngM
 	url = https://github.com/MarcusNg/softdev_HW5.git
@@ -655,9 +646,6 @@
 [submodule "05_occupy_flask_st/9/ahmedF-linK"]
 	path = 05_occupy_flask_st/9/ahmedF-linK
 	url = https://github.com/fahmed3/Grasshoppers.git
-[submodule "05_occupy_flask_st/7/Senk-RuvinshteynM_PyCharmers"]
-	path = 05_occupy_flask_st/7/Senk-RuvinshteynM_PyCharmers
-	url = https://github.com/kkysen/FlaskOccupations.git
 [submodule "05_occupy_flask_st/8/ChenK-VidaliG"]
 	path = 05_occupy_flask_st/8/ChenK-VidaliG
 	url = https://github.com/kchen6600/05Softdev.git
@@ -676,9 +664,6 @@
 [submodule "05_occupy_flask_st/7/LamI-ShifrinaD"]
 	path = 05_occupy_flask_st/7/LamI-ShifrinaD
 	url = https://github.com/dariashifrina/glowing-giggle.git
-[submodule "05_occupy_flask_st/7/LeeV-Smith-SalzebergC"]
-	path = 05_occupy_flask_st/7/LeeV-Smith-SalzebergC
-	url = https://github.com/stuy-softdev/workshop.git
 [submodule "05_occupy_flask_st/7/LeeV-Smith-SalzbergC"]
 	path = 05_occupy_flask_st/7/LeeV-Smith-SalzbergC
 	url = https://github.com/csmithsalzberg/LeeV-Smith-SalzbergC.git
@@ -733,12 +718,6 @@
 [submodule "05_occupy_flask_st/8/abedinM-tungD"]
 	path = 05_occupy_flask_st/8/abedinM-tungD
 	url = https://github.com/doniatung/05.git
-[submodule "05_occupy_flask_st/7/XiangQ-WangK"]
-	path = 05_occupy_flask_st/7/XiangQ-WangK
-	url = https://github.com/queeniexiang/SoftDevHW5_Occupations.git
-[submodule "05_occupy_flask_st/7/More-Ls"]
-	path = 05_occupy_flask_st/7/More-Ls
-	url = https://github.com/TakingTheL/More-Ls.git
 [submodule "05_occupy_flask_st/7/LeungB-LiuL"]
 	path = 05_occupy_flask_st/7/LeungB-LiuL
 	url = https://github.com/TakingTheL/More-Ls.git
