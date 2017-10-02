@@ -742,3 +742,6 @@
 [submodule "06_echo/9/siuR"]
 	path = 06_echo/9/siuR
 	url = https://github.com/siuryan-cs-stuy/sd-06.git
+[submodule "06_echo/9/linS"]
+	path = 06_echo/9/linS
+	url = https://github.com/wertylop5/softdev_06.git
