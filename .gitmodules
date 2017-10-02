@@ -736,3 +736,6 @@
 [submodule "05_occupy_flask_st/8/doktormanD"]
 	path = 05_occupy_flask_st/8/doktormanD
 	url = https://github.com/ddoktorman/occupy_flask_st.git
+[submodule "06_echo/8/doktormanD"]
+	path = 06_echo/8/doktormanD
+	url = https://github.com/ddoktorman/06_echo.git
