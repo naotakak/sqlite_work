@@ -781,3 +781,6 @@
 [submodule "06_echo/8/tabassumM"]
 	path = 06_echo/8/tabassumM
 	url = git@github.com:manahaltabassum/BlueBlanket.git
+[submodule "06_echo/panC"]
+	path = 06_echo/panC
+	url = https://github.com/Carol217/Speed-of-Sound.git
