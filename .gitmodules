@@ -790,3 +790,9 @@
 [submodule "06_echo/9/wuY"]
 	path = 06_echo/9/wuY
 	url = https://github.com/Yuqiwu/work06.git
+[submodule "06_echo/7/ruvinshteynM"]
+	path = 06_echo/7/ruvinshteynM
+	url = https://github.com/MRuvinshteyn/SD-06.git
+[submodule "06_echo/7/SD-06"]
+	path = 06_echo/7/SD-06
+	url = https://github.com/MRuvinshteyn/SD-06.git
