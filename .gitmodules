@@ -775,6 +775,12 @@
 [submodule "06_echo/9/smithJ"]
 	path = 06_echo/9/smithJ
 	url = https://github.com/JamesSmith1202/softdev-work06.git
+<<<<<<< HEAD
 [submodule "06_echo/8/tabassumM"]
 	path = 06_echo/8/tabassumM
 	url = git@github.com:manahaltabassum/BlueBlanket.git
+=======
+[submodule "06_echo/7/shifrinaD"]
+	path = 06_echo/7/shifrinaD
+	url = https://github.com/dariashifrina/reimagined-enigma.git
+>>>>>>> b4ac013cefd12ed487ec581159a80b3134da8ae9
