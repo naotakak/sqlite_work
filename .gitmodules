@@ -904,3 +904,6 @@
 [submodule "06_echo/7/yuJ"]
 	path = 06_echo/7/yuJ
 	url = https://github.com/jenyu7/cautious-fiesta.git
+[submodule "06_echo/8/zorinM"]
+	path = 06_echo/8/zorinM
+	url = https://github.com/MashaZorin/06_echo.git
