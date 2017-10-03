@@ -1298,3 +1298,6 @@
 	path = 06_echo/7/lamI
 	url = https://github.com/ilam1/Wiretrap.git
 
+[submodule "06_echo/9/linK"]
+	path = 06_echo/9/linK
+	url = https://github.com/kristinlin/echooo.git
