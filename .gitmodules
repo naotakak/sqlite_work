@@ -1328,3 +1328,6 @@
 [submodule "06_echo/8/taoI"]
 	path = 06_echo/8/taoI
 	url = https://github.com/iristao/echo03.git
+[submodule "06_echo/7/yeH"]
+	path = 06_echo/7/yeH
+	url = https://github.com/yhelen-stuy/softdev-06
