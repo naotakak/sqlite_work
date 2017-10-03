@@ -1319,3 +1319,6 @@
 [submodule "06_echo/7/jahanI"]
 	path = 06_echo/7/jahanI
 	url = https://github.com/ibnullify/formingapage.git
+[submodule "06_echo/8/chernovolenkoD"]
+	path = 06_echo/8/chernovolenkoD
+	url = https://github.com/dchernovolenko/06work.git
