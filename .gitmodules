@@ -904,7 +904,6 @@
 [submodule "06_echo/7/yuJ"]
 	path = 06_echo/7/yuJ
 	url = https://github.com/jenyu7/cautious-fiesta.git
-<<<<<<< HEAD
 [submodule "04_lemme_flask_u_sumpn/7/Sen-Khyber"]
 	path = 04_lemme_flask_u_sumpn/7/Sen-Khyber
 	url = https://github.com/kkysen/First-Flask-App.git
@@ -1256,7 +1255,6 @@
 [submodule "05_occupy_flask_st/8/keY-leksanovD-testing"]
 	path = 05_occupy_flask_st/8/keY-leksanovD-testing
 	url = https://github.com/yiduoke/05.git
-=======
 [submodule "06_echo/8/zorinM"]
 	path = 06_echo/8/zorinM
 	url = https://github.com/MashaZorin/06_echo.git
@@ -1299,4 +1297,4 @@
 [submodule "06_echo/7/lamI"]
 	path = 06_echo/7/lamI
 	url = https://github.com/ilam1/Wiretrap.git
->>>>>>> dcc5a4b2f09e4976bdceb885f6e03b91adb1a5bb
+
