@@ -448,6 +448,496 @@
 [submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
 	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
 	url = https://github.com/dariashifrina/threeroutes.git
+[submodule "04_lemme_flask_u_sumpn/7/Zhang-Jennifer"]
+	path = 04_lemme_flask_u_sumpn/7/Zhang-Jennifer
+	url = https://github.com/jennifer4569/SoftDev_HW04.git
+[submodule "04_lemme_flask_u_sumpn/8/LeiC"]
+	path = 04_lemme_flask_u_sumpn/8/LeiC
+	url = https://github.com/clei1/softdev-flask.git
+[submodule "04_lemme_flask_u_sumpn/8/JohnstonC"]
+	path = 04_lemme_flask_u_sumpn/8/JohnstonC
+	url = https://github.com/clivejj/flask_intro.git
+[submodule "04_lemme_flask_u_sumpn/8/ZverovichA"]
+	path = 04_lemme_flask_u_sumpn/8/ZverovichA
+	url = https://github.com/az333/20-9-17-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Lee-Vivien"]
+	path = 04_lemme_flask_u_sumpn/7/Lee-Vivien
+	url = https://github.com/vivienlee00/babys_first_flask.git
+[submodule "04_lemme_flask_u_sumpn/8/LeiG"]
+	path = 04_lemme_flask_u_sumpn/8/LeiG
+	url = https://github.com/GordonLei/roughDev-4-flaskDemo
+[submodule "04_lemme_flask_u_sumpn/8/ShiX"]
+	path = 04_lemme_flask_u_sumpn/8/ShiX
+	url = https://github.com/xshi0603/04-softdev.git
+[submodule "04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb"]
+	path = 04_lemme_flask_u_sumpn/7/Smith-Salzberg_Caleb
+	url = https://github.com/csmithsalzberg/Smith-Salzberg_Caleb.git
+[submodule "04_lemme_flask_u_sumpn/7/Wu-Joyce"]
+	path = 04_lemme_flask_u_sumpn/7/Wu-Joyce
+	url = https://github.com/joyce-wu/softdevhw04.git
+[submodule "04_lemme_flask_u_sumpn/7/Thomas-Eugene"]
+	path = 04_lemme_flask_u_sumpn/7/Thomas-Eugene
+	url = https://github.com/EugeneThomas/Thomas-Eugene.git
+[submodule "04_lemme_flask_u_sumpn/9/WuY"]
+	path = 04_lemme_flask_u_sumpn/9/WuY
+	url = https://github.com/Yuqiwu/work04.git
+[submodule "04_lemme_flask_u_sumpn/9/AhmedF"]
+	path = 04_lemme_flask_u_sumpn/9/AhmedF
+	url = https://github.com/fahmed3/work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Wang-Kelly"]
+	path = 04_lemme_flask_u_sumpn/7/Wang-Kelly
+	url = git@github.com:kwang7/Fill-Up-Yer-Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/KhanK"]
+	path = 04_lemme_flask_u_sumpn/9/KhanK
+	url = https://github.com/kkhan01/MKS21QJI-AllRoutesLeadToRome.git
+[submodule "04_lemme_flask_u_sumpn/7/Lam-Irene"]
+	path = 04_lemme_flask_u_sumpn/7/Lam-Irene
+	url = https://github.com/ilam1/Lam-Irene.git
+[submodule "04_lemme_flask_u_sumpn/8/TabassumM"]
+	path = 04_lemme_flask_u_sumpn/8/TabassumM
+	url = git@github.com:manahaltabassum/OrangeGlasses.git
+[submodule "04_lemme_flask_u_sumpn/7/Liu-Yuanchu"]
+	path = 04_lemme_flask_u_sumpn/7/Liu-Yuanchu
+	url = https://github.com/TakingTheL/hw04_intro_to_flask_route.git
+[submodule "04_lemme_flask_u_sumpn/8/FominaA"]
+	path = 04_lemme_flask_u_sumpn/8/FominaA
+	url = https://github.com/sfomina/amphibians.git
+[submodule "04_lemme_flask_u_sumpn/9/MarchiniM"]
+	path = 04_lemme_flask_u_sumpn/9/MarchiniM
+	url = https://github.com/michelamar/hw04.git
+[submodule "04_lemme_flask_u_sumpn/9/ChenK"]
+	path = 04_lemme_flask_u_sumpn/9/ChenK
+	url = https://github.com/kchen36/upgraded-palm-tree.git
+[submodule "04_lemme_flask_u_sumpn/7/Abbas-A"]
+	path = 04_lemme_flask_u_sumpn/7/Abbas-A
+	url = https://github.com/Watabaws/FillErUp.git
+[submodule "04_lemme_flask_u_sumpn/7/Cheung-Jasper"]
+	path = 04_lemme_flask_u_sumpn/7/Cheung-Jasper
+	url = https://github.com/JasperCheung/hw04_fillup.git
+[submodule "04_lemme_flask_u_sumpn/7/Cartegni-Alessandro"]
+	path = 04_lemme_flask_u_sumpn/7/Cartegni-Alessandro
+	url = https://github.com/house-ingetrac/flask-u-sumpn.git
+[submodule "04_lemme_flask_u_sumpn/9/LinKyle"]
+	path = 04_lemme_flask_u_sumpn/9/LinKyle
+	url = https://github.com/kylelin12/Flask.git
+[submodule "04_lemme_flask_u_sumpn/7/Jahan-Ibnul"]
+	path = 04_lemme_flask_u_sumpn/7/Jahan-Ibnul
+	url = https://github.com/ibnullify/SnakeskinFlask.git
+[submodule "04_lemme_flask_u_sumpn/9/GoldmanJ"]
+	path = 04_lemme_flask_u_sumpn/9/GoldmanJ
+	url = https://github.com/jakegoldman/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/7/Peters_Shaina"]
+	path = 04_lemme_flask_u_sumpn/7/Peters_Shaina
+	url = https://github.com/darthbeep/Routes
+[submodule "04_lemme_flask_u_sumpn/9/LuoE"]
+	path = 04_lemme_flask_u_sumpn/9/LuoE
+	url = https://github.com/Hyhyme/SoftDev04.git
+[submodule "04_lemme_flask_u_sumpn/8/LeksanovD"]
+	path = 04_lemme_flask_u_sumpn/8/LeksanovD
+	url = https://github.com/DimitriyL/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Kadir-Jawadul"]
+	path = 04_lemme_flask_u_sumpn/7/Kadir-Jawadul
+	url = https://github.com/ykadir42/K04.git
+[submodule "04_lemme_flask_u_sumpn/8/KalmakovaB"]
+	path = 04_lemme_flask_u_sumpn/8/KalmakovaB
+	url = https://github.com/BermetKalmakova/Flaskapp.git
+[submodule "04_lemme_flask_u_sumpn/7/Ngo-Samantha"]
+	path = 04_lemme_flask_u_sumpn/7/Ngo-Samantha
+	url = https://github.com/sngo1/reimagined-umbrella.git
+[submodule "04_lemme_flask_u_sumpn/8/ZorinM"]
+	path = 04_lemme_flask_u_sumpn/8/ZorinM
+	url = https://github.com/MashaZorin/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/8/ZorinMa"]
+	path = 04_lemme_flask_u_sumpn/8/ZorinMa
+	url = https://github.com/MashaZorin/04_lemme_flask_u_sumpn.git
+[submodule "04_lemme_flask_u_sumpn/7/Wong-Taylor"]
+	path = 04_lemme_flask_u_sumpn/7/Wong-Taylor
+	url = https://github.com/taywong00/softdev_hw04.git
+[submodule "04_lemme_flask_u_sumpn/8/BoylanA"]
+	path = 04_lemme_flask_u_sumpn/8/BoylanA
+	url = https://github.com/aboblin/babysFirstFlask.git
+[submodule "04_lemme_flask_u_sumpn/9/JonesA"]
+	path = 04_lemme_flask_u_sumpn/9/JonesA
+	url = https://github.com/raythejones/softdev.git
+[submodule "04_lemme_flask_u_sumpn/8/TaoI"]
+	path = 04_lemme_flask_u_sumpn/8/TaoI
+	url = https://github.com/iristao/flask-intro.git
+[submodule "04_lemme_flask_u_sumpn/9/ChengM"]
+	path = 04_lemme_flask_u_sumpn/9/ChengM
+	url = https://github.com/mcheng3/sd_work04.git
+[submodule "04_lemme_flask_u_sumpn/8/ChernovolenkoD"]
+	path = 04_lemme_flask_u_sumpn/8/ChernovolenkoD
+	url = https://github.com/dchernovolenko/04hw.git
+[submodule "04_lemme_flask_u_sumpn/9/ParkP"]
+	path = 04_lemme_flask_u_sumpn/9/ParkP
+	url = https://github.com/ppark3/04.git
+[submodule "04_lemme_flask_u_sumpn/7/Pan-Carol-pt2"]
+	path = 04_lemme_flask_u_sumpn/7/Pan-Carol-pt2
+	url = https://github.com/Carol217/Beware-of-Leakage.git
+[submodule "04_lemme_flask_u_sumpn/9/ChengC"]
+	path = 04_lemme_flask_u_sumpn/9/ChengC
+	url = https://github.com/cynthiacheng1/SofDev.git
+[submodule "04_lemme_flask_u_sumpn/8/TaradachukA"]
+	path = 04_lemme_flask_u_sumpn/8/TaradachukA
+	url = https://github.com/taradactyl27/FlaskTesting.git
+[submodule "04_lemme_flask_u_sumpn/8/AbedinM"]
+	path = 04_lemme_flask_u_sumpn/8/AbedinM
+	url = https://github.com/MdAbedin/04-Flask.git
+[submodule "04_lemme_flask_u_sumpn/8/DoktormanD"]
+	path = 04_lemme_flask_u_sumpn/8/DoktormanD
+	url = https://github.com/ddoktorman/flask-routes.git
+[submodule "04_lemme_flask_u_sumpn/8/flask-routes"]
+	path = 04_lemme_flask_u_sumpn/8/flask-routes
+	url = https://github.com/ddoktorman/flask-routes.git
+[submodule "05_occupy_flask_st/7/AbbasA-ZhangY"]
+	path = 05_occupy_flask_st/7/AbbasA-ZhangY
+	url = https://github.com/Watabaws/Yaaz.git
+[submodule "05_occupy_flask_st/8/freudenbergJ-liE"]
+	path = 05_occupy_flask_st/8/freudenbergJ-liE
+	url = https://github.com/JFreud/glowing-occupy-flask.git
+[submodule "05_occupy_flask_st/9/xuJ-soeW"]
+	path = 05_occupy_flask_st/9/xuJ-soeW
+	url = https://github.com/jacqxu00/SoftDev05Jinja.git
+[submodule "05_occupy_flask_st/9/jonesR-elsharawyM"]
+	path = 05_occupy_flask_st/9/jonesR-elsharawyM
+	url = https://github.com/Razorflame3912/effective-barnacle.git
+[submodule "05_occupy_flask_st/9/linS-chenK"]
+	path = 05_occupy_flask_st/9/linS-chenK
+	url = https://github.com/wertylop5/softdev_05.git
+[submodule "05_occupy_flask_st/9/goldmanJ-rahmanA"]
+	path = 05_occupy_flask_st/9/goldmanJ-rahmanA
+	url = https://github.com/jakegoldman/softdev-work05.git
+[submodule "05_occupy_flask_st/7/rafiS-roktimA"]
+	path = 05_occupy_flask_st/7/rafiS-roktimA
+	url = https://github.com/srafi1/sd-05
+[submodule "05_occupy_flask_st/9/chengC-zaiaJ"]
+	path = 05_occupy_flask_st/9/chengC-zaiaJ
+	url = https://github.com/jzaia18/softdev05.git
+[submodule "05_occupy_flask_st/9/chenT-chengM"]
+	path = 05_occupy_flask_st/9/chenT-chengM
+	url = https://github.com/mcheng3/sd_05_occupy_flask_st.git
+[submodule "05_occupy_flask_st/9/korsunM-ngM"]
+	path = 05_occupy_flask_st/9/korsunM-ngM
+	url = https://github.com/MarcusNg/softdev_HW5.git
+[submodule "05_occupy_flask_st/7/IonkinaK-JahanI"]
+	path = 05_occupy_flask_st/7/IonkinaK-JahanI
+	url = git@github.com:kionkina/KB-Toys.git
+[submodule "05_occupy_flask_st/8/leiC-zorinM"]
+	path = 05_occupy_flask_st/8/leiC-zorinM
+	url = https://github.com/clei1/occupation.git
+[submodule "05_occupy_flask_st/7/KadirJ-ShenoyA"]
+	path = 05_occupy_flask_st/7/KadirJ-ShenoyA
+	url = https://github.com/ykadir42/ASdfghJKlFlask.git
+[submodule "05_occupy_flask_st/9/gaoJ-zlotskiyM"]
+	path = 05_occupy_flask_st/9/gaoJ-zlotskiyM
+	url = https://github.com/gaoj123/05JobJinja.git
+[submodule "05_occupy_flask_st/7/CheungJ-GuanT"]
+	path = 05_occupy_flask_st/7/CheungJ-GuanT
+	url = https://github.com/TerryMinal/OccupyWallStreet.git
+[submodule "05_occupy_flask_st/9/smithJ-mahdiIsh"]
+	path = 05_occupy_flask_st/9/smithJ-mahdiIsh
+	url = https://github.com/JamesSmith1202/softdev-work05.git
+[submodule "05_occupy_flask_st/9/linK-wongA"]
+	path = 05_occupy_flask_st/9/linK-wongA
+	url = https://github.com/Witide/05_occupy_flask_st.git
+[submodule "05_occupy_flask_st/7/PanC-PetersS"]
+	path = 05_occupy_flask_st/7/PanC-PetersS
+	url = https://github.com/Carol217/PANcakes-in-PETERSburg.git
+[submodule "05_occupy_flask_st/9/ahmedF-linK"]
+	path = 05_occupy_flask_st/9/ahmedF-linK
+	url = https://github.com/fahmed3/Grasshoppers.git
+[submodule "05_occupy_flask_st/8/ChenK-VidaliG"]
+	path = 05_occupy_flask_st/8/ChenK-VidaliG
+	url = https://github.com/kchen6600/05Softdev.git
+[submodule "05_occupy_flask_st/9/khanK-parkP"]
+	path = 05_occupy_flask_st/9/khanK-parkP
+	url = https://github.com/kkhan01/MKS21QJI-JinjaOccupation.git
+[submodule "05_occupy_flask_st/9/luoE-siuR"]
+	path = 05_occupy_flask_st/9/luoE-siuR
+	url = https://github.com/siuryan/sd-05.git
+[submodule "05_occupy_flask_st/7/ruvinshteynM-senK"]
+	path = 05_occupy_flask_st/7/ruvinshteynM-senK
+	url = https://github.com/kkysen/FlaskOccupations.git
+[submodule "05_occupy_flask_st/7/MoiT-NgoS"]
+	path = 05_occupy_flask_st/7/MoiT-NgoS
+	url = https://github.com/tmoi29/SuperTele.git
+[submodule "05_occupy_flask_st/7/LamI-ShifrinaD"]
+	path = 05_occupy_flask_st/7/LamI-ShifrinaD
+	url = https://github.com/dariashifrina/glowing-giggle.git
+[submodule "05_occupy_flask_st/7/LeeV-Smith-SalzbergC"]
+	path = 05_occupy_flask_st/7/LeeV-Smith-SalzbergC
+	url = https://github.com/csmithsalzberg/LeeV-Smith-SalzbergC.git
+[submodule "05_occupy_flask_st/7/WengC-WuJ"]
+	path = 05_occupy_flask_st/7/WengC-WuJ
+	url = https://github.com/joyce-wu/hw05.git
+[submodule "05_occupy_flask_st/9/wuY-marchiniM"]
+	path = 05_occupy_flask_st/9/wuY-marchiniM
+	url = https://github.com/Yuqiwu/work05.git
+[submodule "05_occupy_flask_st/7/YeH-YuJ-ZhangJ"]
+	path = 05_occupy_flask_st/7/YeH-YuJ-ZhangJ
+	url = https://github.com/jenyu7/2JZ.git
+[submodule "05_occupy_flask_st/8/johnstonC-quangJ"]
+	path = 05_occupy_flask_st/8/johnstonC-quangJ
+	url = https://github.com/clivejj/JQMulti.git
+[submodule "05_occupy_flask_st/8/dChernovolenko-sFomina"]
+	path = 05_occupy_flask_st/8/dChernovolenko-sFomina
+	url = git@github.com:dchernovolenko/05_newoccupation.git
+[submodule "05_occupy_flask_st/9/olevskyL-wongE"]
+	path = 05_occupy_flask_st/9/olevskyL-wongE
+	url = https://github.com/LMOlevsky/05_soft-dev.git
+[submodule "05_occupy_flask_st/8/leiG-ngA"]
+	path = 05_occupy_flask_st/8/leiG-ngA
+	url = https://github.com/GordonLei/roughDev-5-flaskJobs
+[submodule "05_occupy_flask_st/9/linK"]
+	path = 05_occupy_flask_st/9/linK
+	url = https://github.com/kylelin12/Jinja-Training.git
+[submodule "05_occupy_flask_st/7/WangK-XiangQ"]
+	path = 05_occupy_flask_st/7/WangK-XiangQ
+	url = https://github.com/queeniexiang/SoftDevHW5_Occupations.git
+[submodule "05_occupy_flask_st/7/berriB-cartegniA"]
+	path = 05_occupy_flask_st/7/berriB-cartegniA
+	url = https://github.com/bberri1205/k05.git
+[submodule "05_occupy_flask_st/7/kinoshitaN-wongT"]
+	path = 05_occupy_flask_st/7/kinoshitaN-wongT
+	url = https://github.com/naotakak/occupy_flask.git
+[submodule "05_occupy_flask_st/8/shiX-zverovichA"]
+	path = 05_occupy_flask_st/8/shiX-zverovichA
+	url = https://github.com/xshi0603/26-9-17-softdev.git
+[submodule "05_occupy_flask_st/8/kalmakovaB-taradachukA"]
+	path = 05_occupy_flask_st/8/kalmakovaB-taradachukA
+	url = https://github.com/taradactyl27/JinjaNinja.git
+[submodule "05_occupy_flask_st/7/lauS-thomasE"]
+	path = 05_occupy_flask_st/7/lauS-thomasE
+	url = git@github.com:slau8/softdev-05.git
+[submodule "05_occupy_flask_st/8/wooJ-zhengH"]
+	path = 05_occupy_flask_st/8/wooJ-zhengH
+	url = https://github.com/JackieW001/SwedishFish.git
+[submodule "05_occupy_flask_st/8/chenX-parabS"]
+	path = 05_occupy_flask_st/8/chenX-parabS
+	url = https://github.com/xchen5/work05.git
+[submodule "05_occupy_flask_st/8/abedinM-tungD"]
+	path = 05_occupy_flask_st/8/abedinM-tungD
+	url = https://github.com/doniatung/05.git
+[submodule "05_occupy_flask_st/7/LeungB-LiuL"]
+	path = 05_occupy_flask_st/7/LeungB-LiuL
+	url = https://github.com/TakingTheL/More-Ls.git
+[submodule "05_occupy_flask_st/8/boylanA-chenT"]
+	path = 05_occupy_flask_st/8/boylanA-chenT
+	url = https://github.com/aboblin/Work05.git
+[submodule "05_occupy_flask_st/9/liK"]
+	path = 05_occupy_flask_st/9/liK
+	url = https://github.com/Kli16/supreme-sniffle.git
+[submodule "05_occupy_flask_st/8/taoI-tabassumM"]
+	path = 05_occupy_flask_st/8/taoI-tabassumM
+	url = https://github.com/iristao/GreenFlannel.git
+[submodule "05_occupy_flask_st/8/keY-leksanovD"]
+	path = 05_occupy_flask_st/8/keY-leksanovD
+	url = https://github.com/yiduoke/05.git
+[submodule "05_occupy_flask_st/8/doktormanD"]
+	path = 05_occupy_flask_st/8/doktormanD
+	url = https://github.com/ddoktorman/occupy_flask_st.git
+[submodule "06_echo/8/doktormanD"]
+	path = 06_echo/8/doktormanD
+	url = https://github.com/ddoktorman/06_echo.git
+[submodule "06_echo/9/siuR"]
+	path = 06_echo/9/siuR
+	url = https://github.com/siuryan-cs-stuy/sd-06.git
+[submodule "06_echo/9/linS"]
+	path = 06_echo/9/linS
+	url = https://github.com/wertylop5/softdev_06.git
+[submodule "06_echo/7/liuY"]
+	path = 06_echo/7/liuY
+	url = https://github.com/TakingTheL/hw06_echo.git
+[submodule "06_echo/7/kinoshitaN"]
+	path = 06_echo/7/kinoshitaN
+	url = git@github.com:naotakak/echo
+[submodule "06_echo/7/wuJ"]
+	path = 06_echo/7/wuJ
+	url = https://github.com/joyce-wu/hw06.git
+[submodule "06_echo/7/lauS"]
+	path = 06_echo/7/lauS
+	url = https://github.com/slau8/softdev-06.git
+[submodule "06_echo/zaiaJ"]
+	path = 06_echo/9/zaiaJ
+	url = https://github.com/jzaia18/softdev06.git
+[submodule "06_echo/8/boylanA"]
+	path = 06_echo/8/boylanA
+	url = https://github.com/aboblin/echoechoecho.git
+[submodule "06_echo/8/zhengH"]
+	path = 06_echo/8/zhengH
+	url = https://github.com/henryz2000/sdEcho.git
+[submodule "06_echo/9/gaoJ"]
+	path = 06_echo/9/gaoJ
+	url = https://github.com/gaoj123/06Echo.git
+[submodule "06_echo/8/liE"]
+	path = 06_echo/8/liE
+	url = https://github.com/MrEricL/work06.git
+[submodule "06_echo/9/smithJ"]
+	path = 06_echo/9/smithJ
+	url = https://github.com/JamesSmith1202/softdev-work06.git
+[submodule "06_echo/7/shifrinaD"]
+	path = 06_echo/7/shifrinaD
+	url = https://github.com/dariashifrina/reimagined-enigma.git
+[submodule "06_echo/8/tabassumM"]
+	path = 06_echo/8/tabassumM
+	url = git@github.com:manahaltabassum/BlueBlanket.git
+[submodule "06_echo/9/rahmanA"]
+	path = 06_echo/9/rahmanA
+	url = https://github.com/arahman5/softdev-work06.git
+[submodule "06_echo/7/panC"]
+	path = 06_echo/7/panC
+	url = https://github.com/Carol217/Speed-of-Sound.git
+[submodule "06_echo/9/wuY"]
+	path = 06_echo/9/wuY
+	url = https://github.com/Yuqiwu/work06.git
+[submodule "06_echo/7/ruvinshteynM"]
+	path = 06_echo/7/ruvinshteynM
+	url = https://github.com/MRuvinshteyn/SD-06.git
+[submodule "06_echo/7/SD-06"]
+	path = 06_echo/7/SD-06
+	url = https://github.com/MRuvinshteyn/SD-06.git
+[submodule "06_echo/7/moiT"]
+	path = 06_echo/7/moiT
+	url = https://github.com/tmoi29/CurlyFries.git
+[submodule "06_echo/7/leeV"]
+	path = 06_echo/7/leeV
+	url = https://github.com/vivienlee00/echooo.git
+[submodule "06_echo/7/thomasE"]
+	path = 06_echo/7/thomasE
+	url = git@github.com:EugeneThomas/softdev6.git
+[submodule "06_echo/7/shenoyA"]
+	path = 06_echo/7/shenoyA
+	url = https://github.com/Anish2454/softdev_echo_06.git
+[submodule "06_echo/7/ionkinaK"]
+	path = 06_echo/7/ionkinaK
+	url = https://github.com/kionkina/echo.git
+[submodule "06_echo/9/zlotskiyM"]
+	path = 06_echo/9/zlotskiyM
+	url = https://github.com/EdMaxPrime/06Echo.git
+[submodule "06_echo/7/smith-salzbergC"]
+	path = 06_echo/7/smith-salzbergC
+	url = https://github.com/csmithsalzberg/smith-salzbergC.git
+[submodule "06_echo/7/guanT"]
+	path = 06_echo/7/guanT
+	url = https://github.com/TerryMinal/SDEcho.git
+[submodule "06_echo/7/roktimA"]
+	path = 06_echo/7/roktimA
+	url = https://github.com/ArifRoktim/k06.git
+[submodule "06_echo/7/rafiS"]
+	path = 06_echo/7/rafiS
+	url = https://github.com/srafi1/sd-06
+[submodule "06_echo/9/chenK"]
+	path = 06_echo/9/chenK
+	url = https://github.com/kchen36/ubiquitous-robot.git
+[submodule "06_echo/9/wongA"]
+	path = 06_echo/9/wongA
+	url = https://github.com/Witide/06_echo.git
+[submodule "06_echo/8/freudenbergJ"]
+	path = 06_echo/8/freudenbergJ
+	url = https://github.com/JFreud/literate-echo.git
+[submodule "06_echo/7/wangK"]
+	path = 06_echo/7/wangK
+	url = git@github.com:kwang7/echo.git
+[submodule "06_echo/8/leksanovD"]
+	path = 06_echo/8/leksanovD
+	url = https://github.com/DimitriyL/06_echo.git
+[submodule "06_echo/8/leiG"]
+	path = 06_echo/8/leiG
+	url = https://github.com/GordonLei/roughDev-06-Echo.git
+[submodule "06_echo/8/chenT"]
+	path = 06_echo/8/chenT
+	url = git@github.com:tiffanychenn/06_echo.git
+[submodule "06_echo/7/zhangY"]
+	path = 06_echo/7/zhangY
+	url = https://github.com/yuyangz/softdev-hw06.git
+[submodule "06_echo/8/tungD"]
+	path = 06_echo/8/tungD
+	url = https://github.com/doniatung/PipPipCheerio.git
+[submodule "06_echo/8/chenK"]
+	path = 06_echo/8/chenK
+	url = https://github.com/kchen6600/06softdev.git
+[submodule "06_echo/7/senK"]
+	path = 06_echo/7/senK
+	url = https://github.com/kkysen/EchoForm.git
+[submodule "06_echo/7/zhangJ"]
+	path = 06_echo/7/zhangJ
+	url = https://github.com/jennifer4569/SoftDev_HW06.git
+[submodule "VidaliG"]
+	path = VidaliG
+	url = https://github.com/GiorgioVi/06_Echo.git
+[submodule "06_echo/8/johnstonC"]
+	path = 06_echo/8/johnstonC
+	url = https://github.com/clivejj/pumpkin-trajectory.git
+[submodule "06_echo/7/xiangQ"]
+	path = 06_echo/7/xiangQ
+	url = https://github.com/queeniexiang/SoftDevHW6_Echo.git
+[submodule "06_echo/8/chenX"]
+	path = 06_echo/8/chenX
+	url = https://github.com/xchen5/echo.git
+[submodule "06_echo/8/quangJ"]
+	path = 06_echo/8/quangJ
+	url = https://github.com/JonathanQuang/potential-carnival.git
+[submodule "06_echo/7/petersS"]
+	path = 06_echo/7/petersS
+	url = https://github.com/darthbeep/FormRequests
+[submodule "06_echo/8/VidaliG"]
+	path = 06_echo/8/VidaliG
+	url = https://github.com/GiorgioVi/06_Echo.git
+[submodule "06_echo/8/wooJ"]
+	path = 06_echo/8/wooJ
+	url = https://github.com/JackieW001/Zeppoles.git
+[submodule "06_echo/7/berriB"]
+	path = 06_echo/7/berriB
+	url = https://github.com/bberri1205/k06.git
+[submodule "06_echo/9/marchiniM"]
+	path = 06_echo/9/marchiniM
+	url = https://github.com/michelamar/hw06.git
+[submodule "06_echo/7/cheungJ"]
+	path = 06_echo/7/cheungJ
+	url = https://github.com/JasperCheung/hw06-echo.git
+[submodule "06_echo/7/wongT"]
+	path = 06_echo/7/wongT
+	url = https://github.com/taywong00/softdev_hw06.git
+[submodule "06_echo/9/ngM"]
+	path = 06_echo/9/ngM
+	url = https://github.com/MarcusNg/softdev_HW6.git
+[submodule "06_echo/7/yuJ"]
+	path = 06_echo/7/yuJ
+	url = https://github.com/jenyu7/cautious-fiesta.git
+<<<<<<< HEAD
+[submodule "04_lemme_flask_u_sumpn/7/Sen-Khyber"]
+	path = 04_lemme_flask_u_sumpn/7/Sen-Khyber
+	url = https://github.com/kkysen/First-Flask-App.git
+[submodule "04_lemme_flask_u_sumpn/8/VidaliG"]
+	path = 04_lemme_flask_u_sumpn/8/VidaliG
+	url = https://github.com/GiorgioVi/GVidaliWork4.git
+[submodule "04_lemme_flask_u_sumpn/7/Shenoy-Anish"]
+	path = 04_lemme_flask_u_sumpn/7/Shenoy-Anish
+	url = https://github.com/Anish2454/softdev_flask_04.git
+[submodule "04_lemme_flask_u_sumpn/7/Rafi-Shakil"]
+	path = 04_lemme_flask_u_sumpn/7/Rafi-Shakil
+	url = https://github.com/srafi1/SD-04.git
+[submodule "04_lemme_flask_u_sumpn/9/XuJ"]
+	path = 04_lemme_flask_u_sumpn/9/XuJ
+	url = https://github.com/jacqxu00/SoftDev04Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/QuangJ"]
+	path = 04_lemme_flask_u_sumpn/9/QuangJ
+	url = https://github.com/JonathanQuang/FlaskFirstAttempt
+[submodule "04_lemme_flask_u_sumpn/9/LinK"]
+	path = 04_lemme_flask_u_sumpn/9/LinK
+	url = https://github.com/kristinlin/FlaskingQuestions.git
+[submodule "04_lemme_flask_u_sumpn/9/SmithJ"]
+	path = 04_lemme_flask_u_sumpn/9/SmithJ
+	url = https://github.com/JamesSmith1202/softdev-work04.git
+[submodule "04_lemme_flask_u_sumpn/9/ZlotskiyM"]
+	path = 04_lemme_flask_u_sumpn/9/ZlotskiyM
+	url = https://github.com/EdMaxPrime/04Flask.git
+[submodule "04_lemme_flask_u_sumpn/9/NgM"]
+	path = 04_lemme_flask_u_sumpn/9/NgM
+	url = https://github.com/MarcusNg/softdev_HW4.git
+[submodule "04_lemme_flask_u_sumpn/7/Shifrina-Daria"]
+	path = 04_lemme_flask_u_sumpn/7/Shifrina-Daria
+	url = https://github.com/dariashifrina/threeroutes.git
 [submodule "Zhang-Jennifer"]
 	path = Zhang-Jennifer
 	url = https://github.com/jennifer4569/SoftDev_HW04.git
@@ -766,3 +1256,44 @@
 [submodule "05_occupy_flask_st/8/keY-leksanovD-testing"]
 	path = 05_occupy_flask_st/8/keY-leksanovD-testing
 	url = https://github.com/yiduoke/05.git
+=======
+[submodule "06_echo/8/zorinM"]
+	path = 06_echo/8/zorinM
+	url = https://github.com/MashaZorin/06_echo.git
+[submodule "06_echo/9/parkP"]
+	path = 06_echo/9/parkP
+	url = https://github.com/ppark3/06.git
+[submodule "06_echo/9/chenT"]
+	path = 06_echo/9/chenT
+	url = https://github.com/tchen9/work06.git
+[submodule "06_echo/8/shiX"]
+	path = 06_echo/8/shiX
+	url = https://github.com/xshi0603/06_echo.git
+[submodule "06_echo/9/ahmedF"]
+	path = 06_echo/9/ahmedF
+	url = https://github.com/fahmed3/06_echo.git
+[submodule "06_echo/9/WongE"]
+	path = 06_echo/9/WongE
+	url = https://github.com/Edmond120/softdev_echo.git
+[submodule "06_echo/9/olevskyL"]
+	path = 06_echo/9/olevskyL
+	url = https://github.com/LMOlevsky/06_soft-dev.git
+[submodule "06_echo/9/luoE"]
+	path = 06_echo/9/luoE
+	url = git@github.com:Hyhyme/SoftDev06.git
+[submodule "06_echo/9/khanK"]
+	path = 06_echo/9/khanK
+	url = https://github.com/kkhan01/MKS21QJI-Echo.git
+[submodule "06_echo/8/parabS"]
+	path = 06_echo/8/parabS
+	url = https://github.com/sonalparab/echo.git
+[submodule "06_echo/8/ngA"]
+	path = 06_echo/8/ngA
+	url = https://github.com/angelng1412/echo.git
+[submodule "06_echo/8/abedinM"]
+	path = 06_echo/8/abedinM
+	url = https://github.com/MdAbedin/06softdev-Formatted-Response.git
+[submodule "06_echo/7/lamI"]
+	path = 06_echo/7/lamI
+	url = https://github.com/ilam1/Wiretrap.git
+>>>>>>> dcc5a4b2f09e4976bdceb885f6e03b91adb1a5bb
