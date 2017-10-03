@@ -865,3 +865,6 @@
 [submodule "VidaliG"]
 	path = VidaliG
 	url = https://github.com/GiorgioVi/06_Echo.git
+[submodule "06_echo/8/johnstonC"]
+	path = 06_echo/8/johnstonC
+	url = https://github.com/clivejj/pumpkin-trajectory.git
