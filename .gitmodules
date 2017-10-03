@@ -1310,3 +1310,6 @@
 [submodule "06_echo/9/mahdiI"]
 	path = 06_echo/9/mahdiI
 	url = https://github.com/imahdi2000/softdev-work06.git
+[submodule "06_echo/7/ngoS"]
+	path = 06_echo/7/ngoS
+	url = https://github.com/sngo1/studious-octo.git
