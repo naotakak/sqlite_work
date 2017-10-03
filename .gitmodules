@@ -1313,3 +1313,6 @@
 [submodule "06_echo/7/ngoS"]
 	path = 06_echo/7/ngoS
 	url = https://github.com/sngo1/studious-octo.git
+[submodule "06_echo/7/wengC"]
+	path = 06_echo/7/wengC
+	url = https://github.com/Char-Les/SoftDevEcho.git
