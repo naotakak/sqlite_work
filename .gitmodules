@@ -901,3 +901,6 @@
 [submodule "06_echo/9/ngM"]
 	path = 06_echo/9/ngM
 	url = https://github.com/MarcusNg/softdev_HW6.git
+[submodule "06_echo/7/yuJ"]
+	path = 06_echo/7/yuJ
+	url = https://github.com/jenyu7/cautious-fiesta.git
