@@ -850,3 +850,6 @@
 [submodule "06_echo/7/zhangY"]
 	path = 06_echo/7/zhangY
 	url = https://github.com/yuyangz/softdev-hw06.git
+[submodule "06_echo/8/tungD"]
+	path = 06_echo/8/tungD
+	url = https://github.com/doniatung/PipPipCheerio.git
