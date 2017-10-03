@@ -916,3 +916,6 @@
 [submodule "06_echo/8/shiX"]
 	path = 06_echo/8/shiX
 	url = https://github.com/xshi0603/06_echo.git
+[submodule "06_echo/9/ahmedF"]
+	path = 06_echo/9/ahmedF
+	url = https://github.com/fahmed3/06_echo.git
