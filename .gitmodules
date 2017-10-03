@@ -853,3 +853,6 @@
 [submodule "06_echo/8/tungD"]
 	path = 06_echo/8/tungD
 	url = https://github.com/doniatung/PipPipCheerio.git
+[submodule "06_echo/8/chenK"]
+	path = 06_echo/8/chenK
+	url = https://github.com/kchen6600/06softdev.git
