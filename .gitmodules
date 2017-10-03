@@ -1304,3 +1304,6 @@
 [submodule "06_echo/7/kadirJ"]
 	path = 06_echo/7/kadirJ
 	url = https://github.com/ykadir42/K06.git
+[submodule "06_echo/9/xuJ"]
+	path = 06_echo/9/xuJ
+	url = https://github.com/jacqxu00/SoftDev06Echo.git
