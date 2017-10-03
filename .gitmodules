@@ -919,3 +919,6 @@
 [submodule "06_echo/9/ahmedF"]
 	path = 06_echo/9/ahmedF
 	url = https://github.com/fahmed3/06_echo.git
+[submodule "06_echo/9/WongE"]
+	path = 06_echo/9/WongE
+	url = https://github.com/Edmond120/softdev_echo.git
