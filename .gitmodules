@@ -844,3 +844,6 @@
 [submodule "06_echo/8/leiG"]
 	path = 06_echo/8/leiG
 	url = https://github.com/GordonLei/roughDev-06-Echo.git
+[submodule "06_echo/8/chenT"]
+	path = 06_echo/8/chenT
+	url = git@github.com:tiffanychenn/06_echo.git
