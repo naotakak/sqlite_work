@@ -940,3 +940,9 @@
 [submodule "06_echo/8/abedinM"]
 	path = 06_echo/8/abedinM
 	url = https://github.com/MdAbedin/06softdev-Formatted-Response.git
+[submodule "06_echo/9/06Echo"]
+	path = 06_echo/9/06Echo
+	url = https://github.com/soe43/06Echo.git
+[submodule "06_echo/9/soeW"]
+	path = 06_echo/9/soeW
+	url = https://github.com/soe43/06Echo.git
