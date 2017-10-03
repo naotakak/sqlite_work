@@ -1322,3 +1322,6 @@
 [submodule "06_echo/8/chernovolenkoD"]
 	path = 06_echo/8/chernovolenkoD
 	url = https://github.com/dchernovolenko/06work.git
+[submodule "06_echo/9/linKy"]
+	path = 06_echo/9/linKy
+	url = https://github.com/kylelin12/does-anyone-else-hear-an-echo.git
