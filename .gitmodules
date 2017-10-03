@@ -835,3 +835,6 @@
 [submodule "06_echo/8/freudenbergJ"]
 	path = 06_echo/8/freudenbergJ
 	url = https://github.com/JFreud/literate-echo.git
+[submodule "06_echo/7/wangK"]
+	path = 06_echo/7/wangK
+	url = git@github.com:kwang7/echo.git
