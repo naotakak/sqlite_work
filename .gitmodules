@@ -1325,3 +1325,6 @@
 [submodule "06_echo/9/linKy"]
 	path = 06_echo/9/linKy
 	url = https://github.com/kylelin12/does-anyone-else-hear-an-echo.git
+[submodule "06_echo/8/taoI"]
+	path = 06_echo/8/taoI
+	url = https://github.com/iristao/echo03.git
