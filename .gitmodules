@@ -931,9 +931,6 @@
 [submodule "06_echo/9/khanK"]
 	path = 06_echo/9/khanK
 	url = https://github.com/kkhan01/MKS21QJI-Echo.git
-[submodule "NgA"]
-	path = NgA
-	url = https://github.com/angelng1412/echo.git
 [submodule "06_echo/8/parabS"]
 	path = 06_echo/8/parabS
 	url = https://github.com/sonalparab/echo.git
