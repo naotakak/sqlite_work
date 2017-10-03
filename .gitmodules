@@ -826,3 +826,6 @@
 [submodule "06_echo/7/rafiS"]
 	path = 06_echo/7/rafiS
 	url = https://github.com/srafi1/sd-06
+[submodule "06_echo/9/chenK"]
+	path = 06_echo/9/chenK
+	url = https://github.com/kchen36/ubiquitous-robot.git
