@@ -758,7 +758,7 @@
 	path = 06_echo/7/lauS
 	url = https://github.com/slau8/softdev-06.git
 [submodule "06_echo/zaiaJ"]
-	path = 06_echo/zaiaJ
+	path = 06_echo/9/zaiaJ
 	url = https://github.com/jzaia18/softdev06.git
 [submodule "06_echo/8/boylanA"]
 	path = 06_echo/8/boylanA
