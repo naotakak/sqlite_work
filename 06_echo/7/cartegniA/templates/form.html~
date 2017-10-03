@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cross the bridge</title>
+  </head>
+  <body>
+    <h2>What is your...</h2>
+    <form>
+      Name:<br>
+      <input type="text" name="nombre"><br>
+      Favorite Color:<br>
+      <input type="text" name="color"><br>
+      Quest:<br>
+      <input type="text" name="busqueda"><br>
+      <input type="submit" value="enviar">
+    </form>
+  </body>
+</html>
