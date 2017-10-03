@@ -940,3 +940,6 @@
 [submodule "06_echo/8/abedinM"]
 	path = 06_echo/8/abedinM
 	url = https://github.com/MdAbedin/06softdev-Formatted-Response.git
+[submodule "06_echo/7/lamI"]
+	path = 06_echo/7/lamI
+	url = https://github.com/ilam1/Wiretrap.git
