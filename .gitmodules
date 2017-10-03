@@ -925,3 +925,6 @@
 [submodule "06_echo/9/olevskyL"]
 	path = 06_echo/9/olevskyL
 	url = https://github.com/LMOlevsky/06_soft-dev.git
+[submodule "06_echo/9/luoE"]
+	path = 06_echo/9/luoE
+	url = git@github.com:Hyhyme/SoftDev06.git
