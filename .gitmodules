@@ -811,3 +811,6 @@
 [submodule "06_echo/7/ionkinaK"]
 	path = 06_echo/7/ionkinaK
 	url = https://github.com/kionkina/echo.git
+[submodule "06_echo/9/zlotskiyM"]
+	path = 06_echo/9/zlotskiyM
+	url = https://github.com/EdMaxPrime/06Echo.git
