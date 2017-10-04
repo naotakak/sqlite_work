@@ -1382,3 +1382,6 @@
 [submodule "07_login/9/linS-chenK"]
 	path = 07_login/9/linS-chenK
 	url = https://github.com/wertylop5/softdev_07.git
+[submodule "07_login/9/linK-wongA"]
+	path = 07_login/9/linK-wongA
+	url = https://github.com/kylelin12/login-menu-jinjas.git
