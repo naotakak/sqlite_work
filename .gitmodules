@@ -1403,3 +1403,6 @@
 [submodule "07_login/7/ruvinshteynM-shenoyA"]
 	path = 07_login/7/ruvinshteynM-shenoyA
 	url = https://github.com/MRuvinshteyn/MARS.git
+[submodule "07_login/7/berriB-roktimA"]
+	path = 07_login/7/berriB-roktimA
+	url = https://github.com/bberri1205/k07.git
