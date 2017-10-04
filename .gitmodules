@@ -1352,3 +1352,9 @@
 [submodule "06_echo/8/fominaA"]
 	path = 06_echo/8/fominaA
 	url = https://github.com/sfomina/WarmWelcome.git
+[submodule "06_echo/9/sd_06_echo"]
+	path = 06_echo/9/sd_06_echo
+	url = https://github.com/mcheng3/sd_06_echo.git
+[submodule "06_echo/9/chengM"]
+	path = 06_echo/9/chengM
+	url = https://github.com/mcheng3/sd_06_echo.git
