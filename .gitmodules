@@ -1421,3 +1421,6 @@
 [submodule "07_login/8/wooJ-zhengH"]
 	path = 07_login/8/wooJ-zhengH
 	url = https://github.com/JackieW001/07-login.git
+[submodule "07_login/7/lamI-cheungJ"]
+	path = 07_login/7/lamI-cheungJ
+	url = https://github.com/ilam1/sessions.git
