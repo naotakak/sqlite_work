@@ -1409,3 +1409,6 @@
 [submodule "07_login/9/rahmanA-goldmanJ"]
 	path = 07_login/9/rahmanA-goldmanJ
 	url = https://github.com/jakegoldman/softdev-work07.git
+[submodule "07_login/9/gaoJ-zlotskiyM"]
+	path = 07_login/9/gaoJ-zlotskiyM
+	url = https://github.com/gaoj123/07Log.git
