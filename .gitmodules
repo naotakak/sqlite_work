@@ -1367,3 +1367,6 @@
 [submodule "07_login/ionkinaK-thomasE"]
 	path = 07_login/7/ionkinaK-thomasE
 	url = https://github.com/kionkina/tho_ion.git
+[submodule "07_login/7/lauS-wongT"]
+	path = 07_login/7/lauS-wongT
+	url = https://github.com/slau8/softdev-07.git
