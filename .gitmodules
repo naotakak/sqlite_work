@@ -1385,3 +1385,6 @@
 [submodule "07_login/9/linK-wongA"]
 	path = 07_login/9/linK-wongA
 	url = https://github.com/kylelin12/login-menu-jinjas.git
+[submodule "07_login/7/yuJ-zhangJ"]
+	path = 07_login/7/yuJ-zhangJ
+	url = https://github.com/jennifer4569/animated-octo-invention.git
