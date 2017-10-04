@@ -1370,3 +1370,6 @@
 [submodule "07_login/7/lauS-wongT"]
 	path = 07_login/7/lauS-wongT
 	url = https://github.com/slau8/softdev-07.git
+[submodule "07_login/7/liuY-wengC"]
+	path = 07_login/7/liuY-wengC
+	url = https://github.com/TakingTheL/not-really.git
