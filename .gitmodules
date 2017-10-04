@@ -1394,3 +1394,6 @@
 [submodule "07_login/7/higginsH-panC"]
 	path = 07_login/7/higginsH-panC
 	url = https://github.com/Carol217/Pass-the-Word.git
+[submodule "07_login/9/mahdiI-ngM"]
+	path = 07_login/9/mahdiI-ngM
+	url = https://github.com/MarcusNg/softdev_HW7.git
