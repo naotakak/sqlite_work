@@ -1379,3 +1379,6 @@
 [submodule "07_login/9/luoE-siuR"]
 	path = 07_login/9/luoE-siuR
 	url = https://github.com/siuryan-cs-stuy/sd-07.git
+[submodule "07_login/9/linS-chenK"]
+	path = 07_login/9/linS-chenK
+	url = https://github.com/wertylop5/softdev_07.git
