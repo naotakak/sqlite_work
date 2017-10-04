@@ -1373,3 +1373,6 @@
 [submodule "07_login/7/liuY-wengC"]
 	path = 07_login/7/liuY-wengC
 	url = https://github.com/TakingTheL/not-really.git
+[submodule "07_login/9/smithJ_korsunM"]
+	path = 07_login/9/smithJ_korsunM
+	url = https://github.com/JamesSmith1202/softdev7.git
