@@ -1397,3 +1397,6 @@
 [submodule "07_login/9/mahdiI-ngM"]
 	path = 07_login/9/mahdiI-ngM
 	url = https://github.com/MarcusNg/softdev_HW7.git
+[submodule "07_login/8/chenX-taradachukA-doktormanD"]
+	path = 07_login/8/chenX-taradachukA-doktormanD
+	url = https://github.com/xchen5/login.git
