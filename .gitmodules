@@ -1415,3 +1415,6 @@
 [submodule "07_login/8/chenT-liE"]
 	path = 07_login/8/chenT-liE
 	url = git@github.com:tiffanychenn/07_login.git
+[submodule "07_login/8/chenK-vidaliG"]
+	path = 07_login/8/chenK-vidaliG
+	url = https://github.com/kchen6600/07softdev.git
