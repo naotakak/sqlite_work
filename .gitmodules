@@ -1400,3 +1400,6 @@
 [submodule "07_login/8/chenX-taradachukA-doktormanD"]
 	path = 07_login/8/chenX-taradachukA-doktormanD
 	url = https://github.com/xchen5/login.git
+[submodule "07_login/7/ruvinshteynM-shenoyA"]
+	path = 07_login/7/ruvinshteynM-shenoyA
+	url = https://github.com/MRuvinshteyn/MARS.git
