@@ -1418,3 +1418,6 @@
 [submodule "07_login/8/chenK-vidaliG"]
 	path = 07_login/8/chenK-vidaliG
 	url = https://github.com/kchen6600/07softdev.git
+[submodule "07_login/8/wooJ-zhengH"]
+	path = 07_login/8/wooJ-zhengH
+	url = https://github.com/JackieW001/07-login.git
