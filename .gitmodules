@@ -1406,3 +1406,6 @@
 [submodule "07_login/7/berriB-roktimA"]
 	path = 07_login/7/berriB-roktimA
 	url = https://github.com/bberri1205/k07.git
+[submodule "07_login/9/rahmanA-goldmanJ"]
+	path = 07_login/9/rahmanA-goldmanJ
+	url = https://github.com/jakegoldman/softdev-work07.git
