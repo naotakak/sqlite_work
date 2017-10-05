@@ -1427,3 +1427,6 @@
 [submodule "07_login/7/cartegniA-moiT"]
 	path = 07_login/7/cartegniA-moiT
 	url = https://github.com/tmoi29/Hello....git
+[submodule "07_login/8/chernovolenkoD-leiG"]
+	path = 07_login/8/chernovolenkoD-leiG
+	url = https://github.com/dchernovolenko/07work.git
