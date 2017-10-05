@@ -1436,3 +1436,6 @@
 [submodule "07_login/9/zaiaJ-elsharawyM"]
 	path = 07_login/9/zaiaJ-elsharawyM
 	url = https://github.com/Razorflame3912/TeamKouhai.git
+[submodule "07_login/8/boylanA-freudenbergJ"]
+	path = 07_login/8/boylanA-freudenbergJ
+	url = https://github.com/JFreud/super-login.git
