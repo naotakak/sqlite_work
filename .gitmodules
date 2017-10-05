@@ -1439,3 +1439,6 @@
 [submodule "07_login/8/boylanA-freudenbergJ"]
 	path = 07_login/8/boylanA-freudenbergJ
 	url = https://github.com/JFreud/super-login.git
+[submodule "07_login/8/fominaS-tabassumM"]
+	path = 07_login/8/fominaS-tabassumM
+	url = git@github.com:sfomina/PatternedPants.git
