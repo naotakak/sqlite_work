@@ -1457,3 +1457,6 @@
 [submodule "07_login/9/khanK-parkP"]
 	path = 07_login/9/khanK-parkP
 	url = https://github.com/kkhan01/MKS21QJI-login.git
+[submodule "07_login/7/ngoS-petersS-yeH"]
+	path = 07_login/7/ngoS-petersS-yeH
+	url = https://github.com/darthbeep/turbo-funicular
