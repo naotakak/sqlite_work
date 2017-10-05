@@ -1442,3 +1442,6 @@
 [submodule "07_login/8/fominaS-tabassumM"]
 	path = 07_login/8/fominaS-tabassumM
 	url = git@github.com:sfomina/PatternedPants.git
+[submodule "guanT-senK"]
+	path = guanT-senK
+	url = https://github.com/TerryMinal/Login_out.git
