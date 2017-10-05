@@ -1448,3 +1448,6 @@
 [submodule "07_login/7/guanT-senK"]
 	path = 07_login/7/guanT-senK
 	url = https://github.com/TerryMinal/Login_out.git
+[submodule "07_login/8/leiC"]
+	path = 07_login/8/leiC
+	url = https://github.com/clei1/softdev-sessions.git
