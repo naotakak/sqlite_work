@@ -1460,3 +1460,6 @@
 [submodule "07_login/7/ngoS-petersS-yeH"]
 	path = 07_login/7/ngoS-petersS-yeH
 	url = https://github.com/darthbeep/turbo-funicular
+[submodule "07_login/7/kinoshitaN-wuJ"]
+	path = 07_login/7/kinoshitaN-wuJ
+	url = https://github.com/joyce-wu/hw07.git
