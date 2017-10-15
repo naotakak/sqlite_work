@@ -1,0 +1,5 @@
+SELECT name, age, id
+FROM peeps;
+
+SELECT code, mark, id
+FROM courses;
